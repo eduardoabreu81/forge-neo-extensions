@@ -32,4 +32,10 @@ Regenerated and re-validated **monthly** with `build_index_neo.py`: repositories
 
 ---
 
-Maintained by [eduardoabreu81](https://github.com/eduardoabreu81) · last update: 2026-10-13
+<div align="center">
+
+Made with ❤️ for the Stable Diffusion community
+
+**[Report Bug](https://github.com/eduardoabreu81/forge-neo-extensions/issues)** • **[Request Feature](https://github.com/eduardoabreu81/forge-neo-extensions/issues)** • **[☕ Ko-fi](https://ko-fi.com/eduardoabreu81)**
+
+</div>
