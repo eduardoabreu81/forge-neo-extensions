@@ -24,11 +24,13 @@ In **Extensions → Available**, paste this URL into *Extension index URL* and c
 https://raw.githubusercontent.com/eduardoabreu81/forge-neo-extensions/main/index.json
 ```
 
-To list only the Neo ecosystem, tick the `forge-neo` tag and switch **Showing type** to *show*.
+To list only the Neo ecosystem, tick the `forge-neo` tag and switch **Showing type** to *show*:
+
+![forge-neo filter](media/filter.png)
 
 ## Updates
 
-Regenerated and re-validated **monthly** with `build_index_neo.py`: repositories that no longer exist (dead or archived) are removed, and new Forge Neo extensions from the [community thread](https://github.com/Haoming02/sd-webui-forge-classic/discussions/1128) are added.
+The index is **updated monthly**, following the [community thread](https://github.com/Haoming02/sd-webui-forge-classic/discussions/1128).
 
 ---
 
