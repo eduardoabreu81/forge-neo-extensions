@@ -5956,6 +5956,54 @@
    "commit_time": "2025-04-18T00:00:00Z"
   },
   {
+   "name": "🟢 Iris-3B for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/iris-3b-forge-neo",
+   "description": "Iris-3B for Forge Neo",
+   "added": "2026-10-13",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/iris-3b-forge-neo",
+   "github_description": "",
+   "stars": 2,
+   "created_at": "2026-10-11T00:00:00Z",
+   "commit_time": "2026-10-12T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 MiniMax H3 for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/minimax-h3-forge-neo",
+   "description": "MiniMax H3 for Forge Neo",
+   "added": "2026-10-13",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/minimax-h3-forge-neo",
+   "github_description": "",
+   "stars": 12,
+   "created_at": "2026-10-03T00:00:00Z",
+   "commit_time": "2026-10-10T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Qwen-Image 2.1 for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/qwen2.1-forge-neo",
+   "description": "Qwen-Image 2.1 for Forge Neo",
+   "added": "2026-10-13",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/qwen2.1-forge-neo",
+   "github_description": "",
+   "stars": 0,
+   "created_at": "2026-09-30T00:00:00Z",
+   "commit_time": "2026-10-10T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
    "name": "🟢 ADetailer-Neo",
    "url": "https://github.com/Haoming02/ADetailer-Neo",
    "description": "Automatic Masking & Inpainting",
