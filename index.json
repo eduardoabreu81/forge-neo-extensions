@@ -394,7 +394,7 @@
    "commit_time": "2025-06-06T00:00:00Z"
   },
   {
-   "name": "SuperMerger",
+   "name": "🟢 SuperMerger",
    "url": "https://github.com/hako-mikan/sd-webui-supermerger",
    "description": "Merge and run without saving to drive. Sequential XY merge generations; extract and merge loras, bind loras to ckpt, merge block weights, and more.",
    "added": "2023-02-18",
@@ -412,7 +412,7 @@
    "commit_time": "2026-09-13T00:00:00Z"
   },
   {
-   "name": "LoRA Block Weight",
+   "name": "🟢 LoRA Block Weight",
    "url": "https://github.com/hako-mikan/sd-webui-lora-block-weight",
    "description": "Applies LoRA strength; block by block on the fly. Includes presets, weight analysis, randomization, XY plot.",
    "added": "2023-02-28",
@@ -1993,7 +1993,7 @@
    "commit_time": "2024-09-06T00:00:00Z"
   },
   {
-   "name": "Regional Prompter",
+   "name": "🟢 Regional Prompter",
    "url": "https://github.com/hako-mikan/sd-webui-regional-prompter",
    "description": "Specify different prompts for different regions; an alternative method and potential improvement to latent couple.",
    "added": "2023-03-26",
@@ -3418,7 +3418,7 @@
    "commit_time": "2023-09-18T00:00:00Z"
   },
   {
-   "name": "LoRA Control",
+   "name": "🟢 LoRA Control",
    "url": "https://github.com/cheald/sd-webui-loractl",
    "description": "Dynamically control the weights of LoRAs during image generation",
    "tags": [
@@ -3520,7 +3520,7 @@
    "commit_time": "2025-11-24T00:00:00Z"
   },
   {
-   "name": "SD Webui Vectorscope CC",
+   "name": "🟢 SD Webui Vectorscope CC",
    "url": "https://github.com/Haoming02/sd-webui-vectorscope-cc",
    "description": "Adjust the output images brightness contrast saturation through latent noise manipulation during generation",
    "tags": [
@@ -3555,7 +3555,7 @@
    "commit_time": "2024-09-30T00:00:00Z"
   },
   {
-   "name": "Prompt Format - by Haoming02",
+   "name": "🟢 Prompt Format - by Haoming02",
    "url": "https://github.com/Haoming02/sd-webui-prompt-format",
    "description": "Remove duplicated spaces and commas.",
    "tags": [
@@ -3875,7 +3875,7 @@
    "commit_time": "2025-07-24T00:00:00Z"
   },
   {
-   "name": "CivBrowser",
+   "name": "🟢 CivBrowser",
    "url": "https://github.com/SignalFlagZ/sd-webui-civbrowser",
    "description": "Extension to search and download Civitai models in multiple tabs. Save model information. Send sample infotext to txt2img.",
    "tags": [
@@ -3911,7 +3911,7 @@
    "commit_time": "2023-10-26T00:00:00Z"
   },
   {
-   "name": "NegPiP",
+   "name": "🟢 NegPiP",
    "url": "https://github.com/hako-mikan/sd-webui-negpip",
    "description": "Enable negative strength in the prompt. This will have a stronger effect than a negative prompt.",
    "tags": [
@@ -4336,7 +4336,7 @@
    "commit_time": "2023-12-23T00:00:00Z"
   },
   {
-   "name": "Test my prompt!",
+   "name": "🟢 Test my prompt!",
    "url": "https://github.com/Extraltodeus/test_my_prompt",
    "description": "Generate a series of images by successively removing segments of the prompt, allowing for comparison of their individual effects.",
    "tags": [
@@ -5234,7 +5234,7 @@
    "commit_time": "2024-07-09T00:00:00Z"
   },
   {
-   "name": "PNGINFO Beautify",
+   "name": "🟢 PNGINFO Beautify",
    "url": "https://github.com/bluelovers/sd-webui-pnginfo-beautify",
    "description": "Stable Diffusion PNGINFO Beautify extension",
    "tags": [
@@ -5465,7 +5465,7 @@
    "commit_time": "2024-07-05T00:00:00Z"
   },
   {
-   "name": "Detail Daemon",
+   "name": "🟢 Detail Daemon",
    "url": "https://github.com/muerrilla/sd-webui-detail-daemon",
    "description": "Control amount of detail/smoothness during generation by adjusting the sigmas schedule",
    "tags": [
@@ -5716,7 +5716,7 @@
    "commit_time": "2024-10-24T00:00:00Z"
   },
   {
-   "name": "img2img-hires-fix",
+   "name": "🟢 img2img-hires-fix",
    "url": "https://github.com/Amadeus-AI/img2img-hires-fix",
    "description": "Hires-Fix upscale right after the img2img process, using its latent.",
    "tags": [
@@ -5887,7 +5887,7 @@
    "commit_time": "2024-12-22T00:00:00Z"
   },
   {
-   "name": "SD Hub",
+   "name": "🟢 SD Hub",
    "url": "https://github.com/gutris1/sd-hub",
    "description": "An extension to download files individually or in batch from various sources, upload to Hugging Face model repositories, and archive/extract files in multiple formats.",
    "tags": [
@@ -5956,7 +5956,7 @@
    "commit_time": "2025-04-18T00:00:00Z"
   },
   {
-   "name": "ADetailer-Neo",
+   "name": "🟢 ADetailer-Neo",
    "url": "https://github.com/Haoming02/ADetailer-Neo",
    "description": "Automatic Masking & Inpainting",
    "added": "2026-10-13",
@@ -5972,7 +5972,7 @@
    "default_branch": "main"
   },
   {
-   "name": "ADetailer NeoForge",
+   "name": "🟢 ADetailer NeoForge",
    "url": "https://github.com/abzaloff/aadetailer-neoforge",
    "description": "Auto detecting, masking and inpainting with detection model.",
    "added": "2026-10-13",
@@ -5988,7 +5988,7 @@
    "default_branch": "main"
   },
   {
-   "name": "ADetailer Ultimate",
+   "name": "🟢 ADetailer Ultimate",
    "url": "https://github.com/xXIlRizzoXx/adetailer-ultimate",
    "description": "Unofficial fork of Bing-su/adetailer for AUTOMATIC1111, Forge, Forge Neo and reForge: class filtering, sequential class detection, preset library, copy/paste and reset between tabs, remembered settings and open sections,",
    "added": "2026-10-13",
@@ -6004,7 +6004,7 @@
    "default_branch": "main"
   },
   {
-   "name": "ADetailer Reforge",
+   "name": "🟢 ADetailer Reforge",
    "url": "https://github.com/Anzhc/aadetailer-reforge",
    "description": "Auto detecting, masking and inpainting with detection model.",
    "added": "2026-10-13",
@@ -6020,7 +6020,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Lama Cleaner Neo",
+   "name": "🟢 Lama Cleaner Neo",
    "url": "https://github.com/abzaloff/forge-neo-lama-cleaner",
    "description": "Use lama cleaner before inpainting inside stable-diffusion-webui",
    "added": "2026-10-13",
@@ -6036,7 +6036,7 @@
    "default_branch": "master"
   },
   {
-   "name": "ReActor NSFW Freedom",
+   "name": "🟢 ReActor NSFW Freedom",
    "url": "https://github.com/kainatquaderee/sd-webui-reactor-Nsfw_freedom",
    "description": "(NSFW Friendly) Fast and Simple Face Swap Extension for StableDiffusion WebUI (A1111, SD.Next, Cagliostro)",
    "added": "2026-10-13",
@@ -6052,7 +6052,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Face Editor",
+   "name": "🟢 Face Editor",
    "url": "https://github.com/ototadana/sd-face-editor",
    "description": "Face Editor for Stable Diffusion",
    "added": "2026-10-13",
@@ -6068,7 +6068,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Prompt All In One NEO",
+   "name": "🟢 Prompt All In One NEO",
    "url": "https://github.com/eduardoabreu81/sd-webui-prompt-all-in-one-neo",
    "description": "This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, h",
    "added": "2026-10-13",
@@ -6085,7 +6085,7 @@
    "default_branch": "main"
   },
   {
-   "name": "TagComplete Neo",
+   "name": "🟢 TagComplete Neo",
    "url": "https://github.com/eduardoabreu81/sd-webui-tagcomplete-neo",
    "description": "Booru style tag autocompletion for Stable Diffusion WebUI Forge Neo",
    "added": "2026-10-13",
@@ -6101,7 +6101,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Prompt Studio Neo",
+   "name": "🟢 Prompt Studio Neo",
    "url": "https://github.com/eduardoabreu81/sd-webui-prompt-studio-neo",
    "description": "Prompt Studio Neo",
    "added": "2026-10-13",
@@ -6117,7 +6117,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Dynamic Prompts Neo",
+   "name": "🟢 Dynamic Prompts Neo",
    "url": "https://github.com/abzaloff/sd-dynamic-prompts",
    "description": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
    "added": "2026-10-13",
@@ -6133,7 +6133,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Prompt Save (Forge)",
+   "name": "🟢 Prompt Save (Forge)",
    "url": "https://github.com/zeydsama/sd-forge-prompt-save",
    "description": "Simply save your prompt, just like you would when using a lora.",
    "added": "2026-10-13",
@@ -6149,7 +6149,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Yapping",
+   "name": "🟢 Yapping",
    "url": "https://github.com/Haoming02/sd-webui-yapping",
    "description": "An Extension for Automatic1111 Webui that adds presets for parameters",
    "added": "2026-10-13",
@@ -6165,7 +6165,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Wildcard Composer Neo",
+   "name": "🟢 Wildcard Composer Neo",
    "url": "https://github.com/eduardoabreu81/sd-wildcard-composer-neo",
    "description": "Wildcard Composer Neo",
    "added": "2026-10-13",
@@ -6181,7 +6181,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Composer Forge Neo",
+   "name": "🟢 Composer Forge Neo",
    "url": "https://github.com/abzaloff/composer_forge_neo",
    "description": "Composer extension for Forge/Neo that helps build scene layouts before Img2Img/Inpaint.",
    "added": "2026-10-13",
@@ -6197,7 +6197,7 @@
    "default_branch": "main"
   },
   {
-   "name": "LoRA Quickpick",
+   "name": "🟢 LoRA Quickpick",
    "url": "https://github.com/abzaloff/sd-webui-lora-quickpick",
    "description": "LoRA QuickPick is a visual LoRA picker extension for Stable Diffusion WebUI environments.",
    "added": "2026-10-13",
@@ -6213,7 +6213,7 @@
    "default_branch": "main"
   },
   {
-   "name": "LoRA Block Weight (ForgeNeo Anima)",
+   "name": "🟢 LoRA Block Weight (ForgeNeo Anima)",
    "url": "https://github.com/kiygskr/sd-webui-lora-block-weight-forgeneo-anima",
    "description": "LoRA Block Weight (ForgeNeo Anima)",
    "added": "2026-10-13",
@@ -6229,7 +6229,7 @@
    "default_branch": "main"
   },
   {
-   "name": "TrainTrain",
+   "name": "🟢 TrainTrain",
    "url": "https://github.com/hako-mikan/sd-webui-traintrain",
    "description": "LoRA training extention for Stable Diffusion Web-UI",
    "added": "2026-10-13",
@@ -6245,7 +6245,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Merge Studio",
+   "name": "🟢 Merge Studio",
    "url": "https://github.com/eduardoabreu81/sd-webui-merge-studio",
    "description": "Quantization-aware checkpoint merger for Forge Neo — merges, converts and bakes LoRAs on dequantized weights, so it stays correct on fp8, int8, nvfp4 and Anima checkpoints, not just fp16/bf16.",
    "added": "2026-10-13",
@@ -6262,7 +6262,7 @@
    "default_branch": "main"
   },
   {
-   "name": "SuperMerger (ForgeNeo Anima)",
+   "name": "🟢 SuperMerger (ForgeNeo Anima)",
    "url": "https://github.com/kiygskr/sd-webui-supermerger-forgeneo-anima",
    "description": "model merge extention for stable diffusion web ui, extended with ForgeNeo and Anima support",
    "added": "2026-10-13",
@@ -6279,7 +6279,7 @@
    "default_branch": "main"
   },
   {
-   "name": "SuperMerger ForgeNeo Anima (aiai-r)",
+   "name": "🟢 SuperMerger ForgeNeo Anima (aiai-r)",
    "url": "https://github.com/aiai-r/sd-webui-supermerger-forgeneo-anima",
    "description": "model merge extention for stable diffusion web ui, extended with ForgeNeo and Anima support",
    "added": "2026-10-13",
@@ -6296,7 +6296,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Runtime Merger Neo Anima",
+   "name": "🟢 Runtime Merger Neo Anima",
    "url": "https://github.com/darkninjavn/sd-webui-runtime-merger-neo-Anima",
    "description": "Extension for sdwebui Forge Neo  Runtime version of Merge Block Weighted - GUI, let's you preview the effect before you merge.  Anima model only",
    "added": "2026-10-13",
@@ -6313,7 +6313,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Civitai Browser Neo",
+   "name": "🟢 Civitai Browser Neo",
    "url": "https://github.com/eduardoabreu81/sd-civitai-browser-neo",
    "description": "Modern evolution of sd-civitai-browser-plus rebuilt from the ground up for Forge Neo — with auto-organization, disk usage dashboard, creator management, and native support for the latest model architectures (FLUX, Wan, Q",
    "added": "2026-10-13",
@@ -6331,7 +6331,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Civitai Browser Plus NEO",
+   "name": "🟢 Civitai Browser Plus NEO",
    "url": "https://github.com/masterofobzene/sd-civitai-browser-plus-NEO",
    "description": "Extension to access CivitAI.RED🔴 via WebUI for Forge NEO: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.",
    "added": "2026-10-13",
@@ -6349,7 +6349,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Models Info (Neo)",
+   "name": "🟢 Models Info (Neo)",
    "url": "https://github.com/Squibeel/models-info",
    "description": "Models Info (Neo)",
    "added": "2026-10-13",
@@ -6365,7 +6365,7 @@
    "default_branch": "main"
   },
   {
-   "name": "NAI API",
+   "name": "🟢 NAI API",
    "url": "https://github.com/Metachs/sdwebui-nai-api",
    "description": "NAI API",
    "added": "2026-10-13",
@@ -6382,7 +6382,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Agent Scheduler Neo",
+   "name": "🟢 Agent Scheduler Neo",
    "url": "https://github.com/cataclisma/sd-webui-agent-scheduler-neo",
    "description": "This fork is intended to adapt the agent scheduler for use with Forge Neo",
    "added": "2026-10-13",
@@ -6398,7 +6398,7 @@
    "default_branch": "main"
   },
   {
-   "name": "TDE Sampler",
+   "name": "🟢 TDE Sampler",
    "url": "https://github.com/seti9585/sd-webui-tde-sampler",
    "description": "TDE (torchdiffeq-based ODE) sampler extension for Forge-derived Stable Diffusion WebUIs (reForge / Forge Classic / Forge Neo)",
    "added": "2026-10-13",
@@ -6414,7 +6414,7 @@
    "default_branch": "main"
   },
   {
-   "name": "RK Sampler",
+   "name": "🟢 RK Sampler",
    "url": "https://github.com/seti9585/sd-webui-rk-sampler",
    "description": "Runge-Kutta (RK) sampler extension for Forge-derived Stable Diffusion WebUIs (reForge / Forge Classic / Forge Neo)",
    "added": "2026-10-13",
@@ -6430,7 +6430,7 @@
    "default_branch": "main"
   },
   {
-   "name": "RES4LYF (Forge)",
+   "name": "🟢 RES4LYF (Forge)",
    "url": "https://github.com/zeydsama/sd-forge-res4lyf",
    "description": "RES4LYF's sampling method and scheduler port for forge-neo",
    "added": "2026-10-13",
@@ -6446,7 +6446,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Beta57",
+   "name": "🟢 Beta57",
    "url": "https://github.com/zeydsama/sd-forge-beta57",
    "description": "A standalone Beta57 scheduler only",
    "added": "2026-10-13",
@@ -6462,7 +6462,7 @@
    "default_branch": "main"
   },
   {
-   "name": "DLSS5",
+   "name": "🟢 DLSS5",
    "url": "https://github.com/zeydsama/sd-forge-dlss5",
    "description": "NVIDIA DLSS 5 Neural Video & Image Enhancer Integrated Extension for Stable Diffusion WebUI Forge",
    "added": "2026-10-13",
@@ -6478,7 +6478,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Extra Schedulers (Neo)",
+   "name": "🟢 Extra Schedulers (Neo)",
    "url": "https://github.com/aoleg/Neo_ExtraSchedulers",
    "description": "adds a few extra samplers and schedulers to the dropdowns in WebUI Neo",
    "added": "2026-10-13",
@@ -6494,7 +6494,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Attention Couple",
+   "name": "🟢 Attention Couple",
    "url": "https://github.com/Haoming02/sd-forge-couple",
    "description": "An Extension for Forge Webui that implements Attention Couple",
    "added": "2026-10-13",
@@ -6510,7 +6510,7 @@
    "default_branch": "main"
   },
   {
-   "name": "IC-Light",
+   "name": "🟢 IC-Light",
    "url": "https://github.com/Haoming02/sd-forge-ic-light",
    "description": "An Extension for Forge Webui that implements IC-Light",
    "added": "2026-10-13",
@@ -6526,7 +6526,7 @@
    "default_branch": "main"
   },
   {
-   "name": "NegPiP (Krea 2)",
+   "name": "🟢 NegPiP (Krea 2)",
    "url": "https://github.com/aoleg/neo-krea2-negpip",
    "description": "A Krea-2 NegPip implementation for WebUI Neo",
    "added": "2026-10-13",
@@ -6542,7 +6542,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Krea 2 Conditioning Control",
+   "name": "🟢 Krea 2 Conditioning Control",
    "url": "https://github.com/aoleg/neo-krea2-conditioning",
    "description": "Forge Neo port of the quality-preserving per-layer conditioning control for Krea 2",
    "added": "2026-10-13",
@@ -6558,7 +6558,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Krea2 NAG",
+   "name": "🟢 Krea2 NAG",
    "url": "https://github.com/aoleg/Neo-Krea2-NAG",
    "description": "Forge Neo fork of Normalized Attention Guidance for Krea2.",
    "added": "2026-10-13",
@@ -6574,7 +6574,7 @@
    "default_branch": "main"
   },
   {
-   "name": "SPEED",
+   "name": "🟢 SPEED",
    "url": "https://github.com/aoleg/ComfyUI-SPEED",
    "description": "A ForgeNeo Unofficial Implementation of Spectral Progressive Diffusion for Efficient Image and Video Generation for Anima",
    "added": "2026-10-13",
@@ -6590,7 +6590,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Colorcraft",
+   "name": "🟢 Colorcraft",
    "url": "https://github.com/aoleg/ComfyUI-Colorcraft",
    "description": "Node pack for ComfyUI providing an extensive color grading toolset for latents",
    "added": "2026-10-13",
@@ -6607,7 +6607,7 @@
    "default_branch": "main"
   },
   {
-   "name": "SeedVR2 (Neo)",
+   "name": "🟢 SeedVR2 (Neo)",
    "url": "https://github.com/aoleg/seedvr2-webui-neo-extension",
    "description": "SeedVR2 for Forge Neo",
    "added": "2026-10-13",
@@ -6623,7 +6623,7 @@
    "default_branch": "main"
   },
   {
-   "name": "State Manager Neo",
+   "name": "🟢 State Manager Neo",
    "url": "https://github.com/eduardoabreu81/sd-webui-state-manager-neo",
    "description": "A State Manager to handle Configs in Stable Diffusion WebUI Forge NEO",
    "added": "2026-10-13",
@@ -6640,7 +6640,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Split Extra Networks",
+   "name": "🟢 Split Extra Networks",
    "url": "https://github.com/BulbulLeung/forge-split-extra-networks",
    "description": "split extra networks Tab for Forge-Neo",
    "added": "2026-10-13",
@@ -6656,7 +6656,7 @@
    "default_branch": "master"
   },
   {
-   "name": "Generation Layout",
+   "name": "🟢 Generation Layout",
    "url": "https://github.com/BulbulLeung/sd-generation-layout",
    "description": "Generation Layout",
    "added": "2026-10-13",
@@ -6672,7 +6672,7 @@
    "default_branch": "master"
   },
   {
-   "name": "Folder Switcher",
+   "name": "🟢 Folder Switcher",
    "url": "https://github.com/diamfang/sd-webui-folder-switcher",
    "description": "Extension for SD Webui Forge Neo. Adds panel for quick output folder selection",
    "added": "2026-10-13",
@@ -6688,7 +6688,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Smooth Progress",
+   "name": "🟢 Smooth Progress",
    "url": "https://github.com/diamfang/sd-webui-smooth-progress",
    "description": "Extension for SD Webui Forge Neo. Makes progress bar for txt2img / img2img tabs smoother, adds some visual customisation options for progress bar",
    "added": "2026-10-13",
@@ -6704,7 +6704,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Preset Manager Neo",
+   "name": "🟢 Preset Manager Neo",
    "url": "https://github.com/masterofobzene/preset-manager-neo",
    "description": "A configuration manager to save and load configurations in Stable Diffusion WebUI Forge NEO",
    "added": "2026-10-13",
@@ -6721,7 +6721,7 @@
    "default_branch": "main"
   },
   {
-   "name": "TIPO PNGInfo Restore",
+   "name": "🟢 TIPO PNGInfo Restore",
    "url": "https://github.com/seti9585/sd-webui-TIPO-PNGInfo-Restore",
    "description": "Restore your prompts correctly from PNG Info, even when using TIPO (z-tipo-extension).",
    "added": "2026-10-13",
@@ -6737,7 +6737,7 @@
    "default_branch": "main"
   },
   {
-   "name": "Repeat Generate 4NEO",
+   "name": "🟢 Repeat Generate 4NEO",
    "url": "https://github.com/hirorohi03/repeat-generate-4NEO",
    "description": "Extension to Fix \"Generate Forever\" in Forge NEO",
    "added": "2026-10-13",
@@ -6753,7 +6753,7 @@
    "default_branch": "main"
   },
   {
-   "name": "WD 1.4 Tagger (Neo)",
+   "name": "🟢 WD 1.4 Tagger (Neo)",
    "url": "https://github.com/hirorohi03/stable-diffusion-webui-wd14-tagger",
    "description": "A fork of WD14 Tagger that runs on Forge Neo & Classic",
    "added": "2026-10-13",
@@ -6770,7 +6770,7 @@
    "default_branch": "master"
   },
   {
-   "name": "xCloneCleaner",
+   "name": "🟢 xCloneCleaner",
    "url": "https://github.com/sdprompts/xCloneCleaner",
    "description": "An extension for Automatic1111 to work around Stable Diffusion's \"clone problem\". It automatically modifies your prompts with random names, nationalities, hair style and hair color to create more variations in generated ",
    "added": "2026-10-13",
