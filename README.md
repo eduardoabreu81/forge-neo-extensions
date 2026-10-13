@@ -14,7 +14,7 @@ The **Extensions → Available** tab in Forge Neo loads AUTOMATIC1111's classic 
 
 | Classic index | This index |
 | :---: | :---: |
-| ![Before](media/before.png) | ![After](media/after.png) |
+| ![Before](media/before.png?v=2) | ![After](media/after.png?v=2) |
 
 ## Use
 
