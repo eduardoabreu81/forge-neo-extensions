@@ -17,8 +17,7 @@
   "query": "extracting info from images.",
   "science": "experimentation with stable diffusion.",
   "extras": "adds new functionality to the extras tab.",
-  "forge-neo": "Made for / verified with Forge Neo (sd-webui-forge-classic)",
-  "archived": "Archived on GitHub"
+  "forge-neo": "Made for / verified with Forge Neo (sd-webui-forge-classic)"
  },
  "extensions": [
   {
@@ -69,23 +68,6 @@
    "created_at": "2023-06-18T00:00:00Z",
    "default_branch_commit_sha": "8e18812c938d1bfe933d8fd80f5daae0acef0c64",
    "commit_time": "2023-07-06T00:00:00Z"
-  },
-  {
-   "name": "Batch Checkpoints and Prompts",
-   "url": "https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt",
-   "description": "Test a base prompt with different checkpoints and for the checkpoints specific prompt templates ",
-   "added": "2023-06-16",
-   "tags": [
-    "script",
-    "archived"
-   ],
-   "full_name": "h43lb1t0/SD-WebUI-BatchCheckpointPrompt",
-   "github_description": "Test a base prompt with different checkpoints and for the checkpoints specific prompt templates",
-   "stars": 54,
-   "default_branch": "main",
-   "created_at": "2023-04-01T00:00:00Z",
-   "default_branch_commit_sha": "cf99e1897f8f91a40aff4d5c6beac57761817f98",
-   "commit_time": "2025-01-30T00:00:00Z"
   },
   {
    "name": "Kandinsky",
@@ -254,24 +236,6 @@
    "created_at": "2022-11-23T00:00:00Z",
    "default_branch_commit_sha": "0b28b3d19ba483ae24b7d1923a0423d6b4893a04",
    "commit_time": "2023-08-28T00:00:00Z"
-  },
-  {
-   "name": "Custom Diffusion",
-   "url": "https://github.com/guaneec/custom-diffusion-webui",
-   "description": "Custom Diffusion is, in short, finetuning-lite with TI, instead of tuning the whole model. Similar speed and memory requirements to TI and supposedly gives better results in less steps.",
-   "added": "2023-01-28",
-   "tags": [
-    "tab",
-    "training",
-    "archived"
-   ],
-   "full_name": "guaneec/custom-diffusion-webui",
-   "github_description": "An unofficial implementation of Custom Diffusion for Automatic1111's WebUI.",
-   "stars": 67,
-   "default_branch": "master",
-   "created_at": "2023-01-18T00:00:00Z",
-   "default_branch_commit_sha": "006e46f6f19526cd84d3041664c6deed55036225",
-   "commit_time": "2023-07-17T00:00:00Z"
   },
   {
    "name": "Smart Process",
@@ -546,23 +510,6 @@
    "commit_time": "2025-04-24T00:00:00Z"
   },
   {
-   "name": "Preset Utilities",
-   "url": "https://github.com/Gerschel/sd_web_ui_preset_utils",
-   "description": "Preset utility tool for ui. Offers compatibility with custom scripts. (to a limit)",
-   "added": "2022-12-19",
-   "tags": [
-    "UI related",
-    "archived"
-   ],
-   "full_name": "Gerschel/sd_web_ui_preset_utils",
-   "github_description": "Preset Manager moved private",
-   "stars": 249,
-   "default_branch": "master",
-   "created_at": "2022-12-15T00:00:00Z",
-   "default_branch_commit_sha": "e301734567f37ac53c6225aec3a5c9858b357e7e",
-   "commit_time": "2024-02-18T00:00:00Z"
-  },
-  {
    "name": "openOutpaint extension",
    "url": "https://github.com/zero01101/openOutpaint-webUI-extension",
    "description": "A tab with the full openOutpaint UI. Run with the --api flag.",
@@ -581,24 +528,6 @@
    "commit_time": "2024-08-31T00:00:00Z"
   },
   {
-   "name": "quick-css",
-   "url": "https://github.com/Gerschel/sd-web-ui-quickcss",
-   "description": "Extension for quickly selecting and applying custom.css files, for customizing look and placement of elements in ui.",
-   "added": "2022-12-30",
-   "tags": [
-    "tab",
-    "UI related",
-    "archived"
-   ],
-   "full_name": "Gerschel/sd-web-ui-quickcss",
-   "github_description": "I just setup a quick css apply using the style here https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5813 This is a tool for designers to worry more about designing their css, rather than worry about how to manage them for sd-web-ui",
-   "stars": 71,
-   "default_branch": "master",
-   "created_at": "2022-12-19T00:00:00Z",
-   "default_branch_commit_sha": "c7a7d097fe0c949c2699febb8cf058ff4137c0c0",
-   "commit_time": "2024-02-11T00:00:00Z"
-  },
-  {
    "name": "Aspect Ratio selector",
    "url": "https://github.com/alemelis/sd-webui-ar",
    "description": "Adds image aspect ratio selector buttons.",
@@ -613,23 +542,6 @@
    "created_at": "2023-02-02T00:00:00Z",
    "default_branch_commit_sha": "3973c86a7a0f9722b5f61dd1a141ba6821f60245",
    "commit_time": "2024-03-14T00:00:00Z"
-  },
-  {
-   "name": "Nevysha's Cozy Nest",
-   "url": "https://github.com/Nevysha/Cozy-Nest",
-   "description": "Extension for an improved UI/UX. Find your cozy spot on Auto1111's webui!.",
-   "added": "2023-05-02",
-   "tags": [
-    "UI related",
-    "archived"
-   ],
-   "full_name": "Nevysha/Cozy-Nest",
-   "github_description": "A collection of tweak to improve Auto1111 UI//UX",
-   "stars": 374,
-   "default_branch": "main",
-   "created_at": "2023-04-30T00:00:00Z",
-   "default_branch_commit_sha": "a7db35843d10356b347d6add4d81132afbf03e6f",
-   "commit_time": "2024-01-30T00:00:00Z"
   },
   {
    "name": "Catppuccin Theme",
@@ -975,23 +887,6 @@
    "created_at": "2022-11-10T00:00:00Z",
    "default_branch_commit_sha": "9c532f3487c69d533ae6637bae331f92ebb7b69f",
    "commit_time": "2024-02-02T00:00:00Z"
-  },
-  {
-   "name": "Steps Animation",
-   "url": "https://github.com/vladmandic/sd-extension-steps-animation",
-   "description": "Create animation sequence from denoised intermediate steps.",
-   "added": "2023-01-21",
-   "tags": [
-    "animation",
-    "archived"
-   ],
-   "full_name": "vladmandic/sd-extension-steps-animation",
-   "github_description": "Save Interim Steps as Animation extension for SD WebUI",
-   "stars": 142,
-   "default_branch": "main",
-   "created_at": "2023-01-14T00:00:00Z",
-   "default_branch_commit_sha": "acac7f166d5613ebfddac4c0a286ba2e5f7f29d1",
-   "commit_time": "2023-06-30T00:00:00Z"
   },
   {
    "name": "auto-sd-paint-ext",
@@ -1513,41 +1408,6 @@
    "commit_time": "2026-08-09T00:00:00Z"
   },
   {
-   "name": "System Info",
-   "url": "https://github.com/vladmandic/sd-extension-system-info",
-   "description": "System Info tab for WebUI which shows realtime information of the server. Also supports sending crowdsourced inference data as an option.",
-   "added": "2023-01-21",
-   "tags": [
-    "script",
-    "tab",
-    "archived"
-   ],
-   "full_name": "vladmandic/sd-extension-system-info",
-   "github_description": "SD.Next: Platform, package and application info and Standardized benchmarking",
-   "stars": 306,
-   "default_branch": "main",
-   "created_at": "2023-01-14T00:00:00Z",
-   "default_branch_commit_sha": "006f08f499bbe69c484f0f1cc332bbf0e75526c2",
-   "commit_time": "2026-03-31T00:00:00Z"
-  },
-  {
-   "name": "OpenPose Editor",
-   "url": "https://github.com/fkunn1326/openpose-editor",
-   "description": "This can add multiple pose characters, detect pose from image, save to PNG, and send to controlnet extension.",
-   "added": "2023-02-18",
-   "tags": [
-    "tab",
-    "archived"
-   ],
-   "full_name": "fkunn1326/openpose-editor",
-   "github_description": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
-   "stars": 1758,
-   "default_branch": "master",
-   "created_at": "2023-02-19T00:00:00Z",
-   "default_branch_commit_sha": "c935771507f57201e26f4ed507aa47f3812ca491",
-   "commit_time": "2023-10-11T00:00:00Z"
-  },
-  {
    "name": "Stable Horde Worker",
    "url": "https://github.com/sdwebui-w-horde/sd-webui-stable-horde-worker",
    "description": "Worker Client for Stable Horde. Generate pictures for other users with your PC. Please see readme for additional instructions.",
@@ -1611,23 +1471,6 @@
    "created_at": "2022-10-23T00:00:00Z",
    "default_branch_commit_sha": "1c3ab7a116ab5bc3b81d718e6383edd98903a01f",
    "commit_time": "2023-01-16T00:00:00Z"
-  },
-  {
-   "name": "Aesthetic Scorer",
-   "url": "https://github.com/vladmandic/sd-extension-aesthetic-scorer",
-   "description": "Uses existing CLiP model with an additional small pretrained model to calculate perceived aesthetic score of an image.",
-   "added": "2023-01-21",
-   "tags": [
-    "query",
-    "archived"
-   ],
-   "full_name": "vladmandic/sd-extension-aesthetic-scorer",
-   "github_description": "Aesthetic Scorer extension for SD WebUI",
-   "stars": 80,
-   "default_branch": "main",
-   "created_at": "2023-01-14T00:00:00Z",
-   "default_branch_commit_sha": "b60c3c825409f9b5c1ccbbb63b1713bf8ce7f253",
-   "commit_time": "2023-05-21T00:00:00Z"
   },
   {
    "name": "cafe-aesthetic",
@@ -1908,23 +1751,6 @@
    "commit_time": "2023-06-18T00:00:00Z"
   },
   {
-   "name": "sd-webui-enable-checker",
-   "url": "https://github.com/shirayu/sd-webui-enable-checker",
-   "description": "Switch background color by clicking the Enable buttons in SD Web UI",
-   "added": "2023-03-19",
-   "tags": [
-    "script",
-    "archived"
-   ],
-   "full_name": "shirayu/sd-webui-enable-checker",
-   "github_description": "Checker of \"enable\" statuses in SD Web UI",
-   "stars": 59,
-   "default_branch": "main",
-   "created_at": "2023-03-06T00:00:00Z",
-   "default_branch_commit_sha": "eccdced85047ad19b21c73e20337e514a2e817a8",
-   "commit_time": "2025-08-27T00:00:00Z"
-  },
-  {
    "name": "stable-diffusion-webui-state",
    "url": "https://github.com/ilian6806/stable-diffusion-webui-state",
    "description": "Preserves the UI state after reload/restart.",
@@ -1956,25 +1782,6 @@
    "created_at": "2023-03-19T00:00:00Z",
    "default_branch_commit_sha": "989f5cfec8ca437eb27c30fc7a10b2864f159bc9",
    "commit_time": "2024-07-14T00:00:00Z"
-  },
-  {
-   "name": "Aspect Ratio Helper",
-   "url": "https://github.com/thomasasfk/sd-webui-aspect-ratio-helper",
-   "description": "Easily scale dimensions while retaining the same aspect ratio.",
-   "added": "2023-03-20",
-   "tags": [
-    "script",
-    "dropdown",
-    "UI related",
-    "archived"
-   ],
-   "full_name": "thomasasfk/sd-webui-aspect-ratio-helper",
-   "github_description": "Simple extension to easily maintain aspect ratio while changing dimensions.  Install via the extensions tab on the AUTOMATIC1111 webui.",
-   "stars": 434,
-   "default_branch": "main",
-   "created_at": "2023-03-20T00:00:00Z",
-   "default_branch_commit_sha": "09096711a8e5bc43ab8d233bbd6ac4946c94c388",
-   "commit_time": "2025-02-20T00:00:00Z"
   },
   {
    "name": "Canvas Zoom",
@@ -2193,23 +2000,6 @@
    "created_at": "2022-11-06T00:00:00Z",
    "default_branch_commit_sha": "3b310d9c72c78264ab37d7651ab2638945e28dd8",
    "commit_time": "2025-04-28T00:00:00Z"
-  },
-  {
-   "name": "zh_TW Localization",
-   "url": "https://github.com/harukaxxxx/stable-diffusion-webui-localization-zh_TW",
-   "description": "Traditional Chinese localization",
-   "added": "2022-11-09",
-   "tags": [
-    "localization",
-    "archived"
-   ],
-   "full_name": "harukaxxxx/stable-diffusion-webui-localization-zh_TW",
-   "github_description": "Traditional Chinese translation extension for Stable Diffusion web UI by AUTOMATIC1111",
-   "stars": 15,
-   "default_branch": "main",
-   "created_at": "2023-04-18T00:00:00Z",
-   "default_branch_commit_sha": "1d685279983152b4ec36dde2345ff91ddc204742",
-   "commit_time": "2025-05-06T00:00:00Z"
   },
   {
    "name": "ko_KR Localization",
@@ -2799,24 +2589,6 @@
    "commit_time": "2024-04-24T00:00:00Z"
   },
   {
-   "name": "sd-webui-roop",
-   "url": "https://github.com/s0md3v/roop",
-   "description": "Enable face swapping with reference image.",
-   "added": "2023-06-09",
-   "tags": [
-    "editing",
-    "manipulations",
-    "archived"
-   ],
-   "full_name": "s0md3v/roop",
-   "github_description": "roop extension for StableDiffusion web-ui",
-   "stars": 3563,
-   "default_branch": "main",
-   "created_at": "2023-06-17T00:00:00Z",
-   "default_branch_commit_sha": "de29743ef2c969f42e24fc5a48e25574d9851309",
-   "commit_time": "2026-03-13T00:00:00Z"
-  },
-  {
    "name": "sd-webui-color-enhance",
    "url": "https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git",
    "description": "Enhance image colors using GIMP/GEGL \"Color Enhance\" algorithm.",
@@ -3326,42 +3098,6 @@
    "commit_time": "2024-05-04T00:00:00Z"
   },
   {
-   "name": "Custom Hires Fix",
-   "url": "https://github.com/wcde/custom-hires-fix-for-automatic1111",
-   "description": "Adds custom hires fix with advanced features to improve details.",
-   "tags": [
-    "script",
-    "manipulations",
-    "archived"
-   ],
-   "added": "2023-07-30",
-   "full_name": "wcde/custom-hires-fix-for-automatic1111",
-   "github_description": "Webui Extension for customizing Highres. fix and improve details.",
-   "stars": 48,
-   "default_branch": "main",
-   "created_at": "2023-02-01T00:00:00Z",
-   "default_branch_commit_sha": "9700c14b60f60d9822bde0cae5e11d60328c2087",
-   "commit_time": "2023-10-16T00:00:00Z"
-  },
-  {
-   "name": "Refiner",
-   "url": "https://github.com/wcde/sd-webui-refiner",
-   "description": "Adds support for SD XL refiner models, it's extending the pipeline to process the last steps with the refiner models Unet.",
-   "tags": [
-    "script",
-    "manipulations",
-    "archived"
-   ],
-   "added": "2023-07-30",
-   "full_name": "wcde/sd-webui-refiner",
-   "github_description": "Webui Extension for integration refiner in generation process",
-   "stars": 155,
-   "default_branch": "main",
-   "created_at": "2023-07-28T00:00:00Z",
-   "default_branch_commit_sha": "0ad12e75339e857c7539bbbdf6a125f1cdd6fa96",
-   "commit_time": "2023-08-12T00:00:00Z"
-  },
-  {
    "name": "sd-webui-deoldify",
    "url": "https://github.com/SpenserCai/sd-webui-deoldify",
    "description": "DeOldify for Stable Diffusion WebUI:Colorize of old photos and old video, based on deoldify",
@@ -3398,24 +3134,6 @@
    "created_at": "2023-08-03T00:00:00Z",
    "default_branch_commit_sha": "5c9f5c0e5edb5ec916c36ed8e27569f3eabfb066",
    "commit_time": "2024-06-14T00:00:00Z"
-  },
-  {
-   "name": "Controlnet Fastload",
-   "url": "https://github.com/pk5ls20/sd-webui-controlnet-fastload",
-   "description": "Save and load controlnet parameters",
-   "tags": [
-    "script",
-    "manipulations",
-    "archived"
-   ],
-   "added": "2023-08-07",
-   "full_name": "pk5ls20/sd-webui-controlnet-fastload",
-   "github_description": "Save parameters in the Controlnet plugin easily   轻松保存Controlnet插件参数",
-   "stars": 36,
-   "default_branch": "main",
-   "created_at": "2023-08-07T00:00:00Z",
-   "default_branch_commit_sha": "bbdb929f4285ea69d5099268496e4322dc7203ab",
-   "commit_time": "2023-09-18T00:00:00Z"
   },
   {
    "name": "🟢 LoRA Control",
@@ -3621,25 +3339,6 @@
    "created_at": "2023-08-23T00:00:00Z",
    "default_branch_commit_sha": "b7289de6b4aa0c0361e2f13d9cccf3117004fecb",
    "commit_time": "2023-10-08T00:00:00Z"
-  },
-  {
-   "name": "CivitAI Browser+",
-   "url": "https://github.com/BlafKing/sd-civitai-browser-plus",
-   "description": "Extension to access CivitAI via WebUI: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.",
-   "tags": [
-    "script",
-    "tab",
-    "online",
-    "archived"
-   ],
-   "added": "2023-08-24",
-   "full_name": "BlafKing/sd-civitai-browser-plus",
-   "github_description": "Extension to access CivitAI via WebUI: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.",
-   "stars": 379,
-   "default_branch": "main",
-   "created_at": "2023-08-20T00:00:00Z",
-   "default_branch_commit_sha": "b3d3ecf2684d5cb5ebecfddd4c3c63ac4701f5c5",
-   "commit_time": "2025-07-09T00:00:00Z"
   },
   {
    "name": "Img2img batch interrogator",
@@ -4319,23 +4018,6 @@
    "commit_time": "2026-01-18T00:00:00Z"
   },
   {
-   "name": "Deep Shrink Hires.fix",
-   "url": "https://github.com/wcde/sd-webui-kohya-hiresfix",
-   "description": "Implementation of Kohya's Deep Shrink Hires.fix",
-   "tags": [
-    "manipulations",
-    "archived"
-   ],
-   "added": "2023-11-26",
-   "full_name": "wcde/sd-webui-kohya-hiresfix",
-   "github_description": "",
-   "stars": 222,
-   "default_branch": "main",
-   "created_at": "2023-11-15T00:00:00Z",
-   "default_branch_commit_sha": "05af98743ef57838d6c83bfbe07a2920dd339a7c",
-   "commit_time": "2023-12-23T00:00:00Z"
-  },
-  {
    "name": "🟢 Test my prompt!",
    "url": "https://github.com/Extraltodeus/test_my_prompt",
    "description": "Generate a series of images by successively removing segments of the prompt, allowing for comparison of their individual effects.",
@@ -4702,26 +4384,6 @@
    "commit_time": "2024-10-19T00:00:00Z"
   },
   {
-   "name": "RPG-DiffusionMaster",
-   "url": "https://github.com/zydxt/sd-webui-rpg-diffusionmaster",
-   "description": "Implementation of WebUI extension for RPG-DiffusionMaster. Utilizing the capabilities of the LLM model to generate Regional Prompts for better generation results.",
-   "tags": [
-    "script",
-    "dropdown",
-    "prompting",
-    "online",
-    "archived"
-   ],
-   "added": "2024-02-07",
-   "full_name": "zydxt/sd-webui-rpg-diffusionmaster",
-   "github_description": "Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)",
-   "stars": 52,
-   "default_branch": "main",
-   "created_at": "2024-01-26T00:00:00Z",
-   "default_branch_commit_sha": "225b748f16373c3a51da24769c33710c645c5585",
-   "commit_time": "2024-08-29T00:00:00Z"
-  },
-  {
    "name": "sd-webui-creaprompt",
    "url": "https://github.com/tritant/sd-webui-creaprompt",
    "description": "This extension for A1111 generates wonderful prompts randomly",
@@ -4933,23 +4595,6 @@
    "commit_time": "2025-07-23T00:00:00Z"
   },
   {
-   "name": "Old Photo Restoration",
-   "url": "https://github.com/Haoming02/sd-webui-old-photo-restoration",
-   "description": "Bringing Old Photo Back to Life",
-   "tags": [
-    "extras",
-    "archived"
-   ],
-   "added": "2024-03-08",
-   "full_name": "Haoming02/sd-webui-old-photo-restoration",
-   "github_description": "An Extension for Automatic1111 Webui for Bringing Old Photo Back to Life",
-   "stars": 151,
-   "default_branch": "main",
-   "created_at": "2023-12-04T00:00:00Z",
-   "default_branch_commit_sha": "99c5f47f37e36223035f75cb05739eb767aa04ac",
-   "commit_time": "2025-07-03T00:00:00Z"
-  },
-  {
    "name": "Mobile friendly UI tweaks",
    "url": "https://github.com/Haoming02/sd-webui-mobile-friendly",
    "description": "UI tweaks to makes the web interface easier to use on mobile (portrait)",
@@ -5148,23 +4793,6 @@
    "created_at": "2024-04-03T00:00:00Z",
    "default_branch_commit_sha": "11fc9c4e22a5394382bbb3b17a0dd1228b93230e",
    "commit_time": "2024-04-10T00:00:00Z"
-  },
-  {
-   "name": "TripoSR",
-   "url": "https://github.com/AlbedoFire/sd-webui-triposr",
-   "description": "TripoSR image to 3D model",
-   "tags": [
-    "tab",
-    "archived"
-   ],
-   "added": "2024-04-24",
-   "full_name": "AlbedoFire/sd-webui-triposr",
-   "github_description": "generate 3D module use tripoSR",
-   "stars": 16,
-   "default_branch": "master",
-   "created_at": "2024-03-29T00:00:00Z",
-   "default_branch_commit_sha": "6014226fa0a10ef859b8d4912726ed24f99a6451",
-   "commit_time": "2024-05-01T00:00:00Z"
   },
   {
    "name": "Readme browser",
