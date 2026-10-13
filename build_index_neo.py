@@ -32,6 +32,9 @@ NEO_COMPATIBLE_EXISTING = {
 
 # repo -> (display name, category tags) — description comes from GitHub when usable
 NEO_ADDITIONS = {
+    "eduardoabreu81/iris-3b-forge-neo": ("Iris-3B for Forge Neo", ["models"]),
+    "eduardoabreu81/minimax-h3-forge-neo": ("MiniMax H3 for Forge Neo", ["models"]),
+    "eduardoabreu81/qwen2.1-forge-neo": ("Qwen-Image 2.1 for Forge Neo", ["models"]),
     "Haoming02/ADetailer-Neo": ("ADetailer-Neo", ["editing"]),
     "abzaloff/aadetailer-neoforge": ("ADetailer NeoForge", ["editing"]),
     "xXIlRizzoXx/adetailer-ultimate": ("ADetailer Ultimate", ["editing"]),
@@ -94,7 +97,7 @@ def gh_repo(repo):
         capture_output=True, text=True)
     if out.returncode != 0:
         return None
-    return out.stdout.strip().split("\t")
+    return out.stdout.rstrip("\n").split("\t")  # rstrip only newline: empty description keeps the trailing tab
 
 
 def load_cache(path):
@@ -111,7 +114,6 @@ def main():
     base = json.loads((HERE / "a1111_index.json").read_text(encoding="utf-8"))
     tags_root = base.get("tags", {})
     tags_root["forge-neo"] = "Made for / verified with Forge Neo (sd-webui-forge-classic)"
-    tags_root["archived"] = "Archived on GitHub"
 
     cache = load_cache(HERE / "idx_status.tsv")
     additions_cache = load_cache(HERE / "neo_status.tsv")
@@ -130,6 +132,9 @@ def main():
         if not info or info[1] in (None, "DEAD"):
             dropped.append(repo)
             continue
+        if info[2] == "true":
+            dropped.append(f"{repo} (archived)")
+            continue
         full, arch, pushed, stars, created, branch, gh_desc = info[1:8]
         entry = dict(ext)
         entry["full_name"] = full
@@ -140,15 +145,13 @@ def main():
         entry["commit_time"] = f"{pushed}T00:00:00Z"
         entry["default_branch"] = branch
         entry_tags = entry.get("tags", [])
-        if arch == "true":
-            if "archived" not in entry_tags:
-                entry_tags.append("archived")
-            archived += 1
         if repo in NEO_COMPATIBLE_EXISTING or full in NEO_COMPATIBLE_EXISTING:
             if "forge-neo" not in entry_tags:
                 entry_tags.append("forge-neo")
             neo_tagged += 1
         entry["tags"] = entry_tags
+        if "forge-neo" in entry_tags:
+            entry["name"] = "\U0001F7E2 " + entry["name"]  # green dot marker, visible in the EXTENSION column
         extensions.append(entry)
 
     def norm_url(u):
@@ -168,7 +171,7 @@ def main():
         full = repo
         desc = gh_desc if len(gh_desc) >= 20 else name
         extensions.append({
-            "name": name,
+            "name": f"\U0001F7E2 {name}",
             "url": canonical,
             "description": desc,
             "added": TODAY,
@@ -182,16 +185,14 @@ def main():
         })
         seen.add(norm_url(canonical))
         neo_tagged += 1
-        if arch == "true":
-            archived += 1
 
     out = {"tags": tags_root, "extensions": extensions}
     dest = HERE / "index.json"
     dest.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
 
     print(f"entradas: {len(extensions)} (base {len(base['extensions'])} + {len(NEO_ADDITIONS)} novas)")
-    print(f"descartadas (404): {len(dropped)} -> {dropped}")
-    print(f"arquivadas marcadas: {archived} | com tag forge-neo: {neo_tagged}")
+    print(f"removidas ({len(dropped)}): " + ", ".join(dropped))
+    print(f"com tag forge-neo: {neo_tagged}")
     print(f"salvo em: {dest}")
 
 
