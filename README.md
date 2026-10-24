@@ -28,6 +28,16 @@ To list only the Neo ecosystem, tick the `forge-neo` tag and switch **Showing ty
 
 ![forge-neo filter](media/filter.png)
 
+### Make it the default
+
+Forge Neo reads the index URL from the `WEBUI_EXTENSIONS_INDEX` environment variable. Add this line to `webui-user.bat`, before `call webui.bat`, and the Available tab loads this list by default, even after Forge updates:
+
+```bat
+set WEBUI_EXTENSIONS_INDEX=https://raw.githubusercontent.com/eduardoabreu81/forge-neo-extensions/main/index.json
+```
+
+On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
+
 ## The Forge Neo list
 
 ### Inpaint, face & detection
