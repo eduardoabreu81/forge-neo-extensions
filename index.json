@@ -6476,6 +6476,295 @@
    "created_at": "2024-06-14T00:00:00Z",
    "commit_time": "2026-05-14T00:00:00Z",
    "default_branch": "main"
+  },
+  {
+   "name": "🟢 MOSS-Image for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/moss-image-forge-neo",
+   "description": "MOSS-Image for Stable Diffusion WebUI Forge Neo: text-to-image with sharp English and Chinese text, img2img and layouts by boxes, with the SFT and Base models",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/moss-image-forge-neo",
+   "github_description": "MOSS-Image for Stable Diffusion WebUI Forge Neo: text-to-image with sharp English and Chinese text, img2img and layouts by boxes, with the SFT and Base models",
+   "stars": 19,
+   "created_at": "2026-10-16T00:00:00Z",
+   "commit_time": "2026-10-24T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 FIBO 2 for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/fibo2-forge-neo",
+   "description": "FIBO 2.0 for Stable Diffusion WebUI Forge Neo: Bria's Dev and Edit Turbo with structured JSON captions, text rendering, edits in img2img and inpaint, INT8 and GGUF",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/fibo2-forge-neo",
+   "github_description": "FIBO 2.0 for Stable Diffusion WebUI Forge Neo: Bria's Dev and Edit Turbo with structured JSON captions, text rendering, edits in img2img and inpaint, INT8 and GGUF",
+   "stars": 2,
+   "created_at": "2026-10-22T00:00:00Z",
+   "commit_time": "2026-10-25T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Regional Boxes",
+   "url": "https://github.com/eduardoabreu81/sd-regional-boxes-neo",
+   "description": "Draw boxes in Forge Neo and hand them to the model in its own format: coordinates for FLUX 3, marks on the image for Qwen-Image 2.1, a JSON layout for MOSS-Image",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "prompting"
+   ],
+   "full_name": "eduardoabreu81/sd-regional-boxes-neo",
+   "github_description": "Draw boxes in Forge Neo and hand them to the model in its own format: coordinates for FLUX 3, marks on the image for Qwen-Image 2.1, a JSON layout for MOSS-Image",
+   "stars": 8,
+   "created_at": "2026-10-15T00:00:00Z",
+   "commit_time": "2026-10-17T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 NegPiP (Krea 2 / MOSS-Image)",
+   "url": "https://github.com/flyfront/sd-forge-negpip",
+   "description": "NegPiP / prompt weighting for Forge Neo, with Krea 2 and MOSS-Image support (fork of the archived sd-forge-negpip; SD1 / SDXL / Anima kept)",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "prompting"
+   ],
+   "full_name": "flyfront/sd-forge-negpip",
+   "github_description": "NegPiP / prompt weighting for Forge Neo, with Krea 2 and MOSS-Image support (fork of the archived sd-forge-negpip; SD1 / SDXL / Anima kept)",
+   "stars": 7,
+   "created_at": "2026-07-07T00:00:00Z",
+   "commit_time": "2026-10-21T00:00:00Z",
+   "default_branch": "neo"
+  },
+  {
+   "name": "🟢 Steer CFG Attention Guidance",
+   "url": "https://github.com/sca-285/sd-steer-cfg-attention-guidance",
+   "description": "CFG guidance methods for Forge, reForge and Forge Classic (Neo)",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "script"
+   ],
+   "full_name": "sca-285/sd-steer-cfg-attention-guidance",
+   "github_description": "CFG guidance methods for Forge, reForge and Forge Classic (Neo)",
+   "stars": 0,
+   "created_at": "2026-09-25T00:00:00Z",
+   "commit_time": "2026-09-26T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Visage",
+   "url": "https://github.com/eduardoabreu81/visage-forge-neo",
+   "description": "Face swap, face restore and checkpoint refine for Forge Neo. ONNX only: no insightface, no build tools, Python 3.13+.",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "editing"
+   ],
+   "full_name": "eduardoabreu81/visage-forge-neo",
+   "github_description": "Face swap, face restore and checkpoint refine for Forge Neo. ONNX only: no insightface, no build tools, Python 3.13+.",
+   "stars": 3,
+   "created_at": "2026-10-18T00:00:00Z",
+   "commit_time": "2026-10-19T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Impact ADetailer Neo",
+   "url": "https://github.com/sca-285/sd-Impact-ADetailer-Neo",
+   "description": "Automatic Masking & Inpainting",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "editing"
+   ],
+   "full_name": "sca-285/sd-Impact-ADetailer-Neo",
+   "github_description": "Automatic Masking & Inpainting",
+   "stars": 0,
+   "created_at": "2026-09-23T00:00:00Z",
+   "commit_time": "2026-10-19T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 ReActor (abzaloff)",
+   "url": "https://github.com/abzaloff/sd-webui-reactor",
+   "description": "ReActor (abzaloff)",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "editing"
+   ],
+   "full_name": "abzaloff/sd-webui-reactor",
+   "github_description": "",
+   "stars": 2,
+   "created_at": "2026-04-04T00:00:00Z",
+   "commit_time": "2026-09-14T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Prompt Vault",
+   "url": "https://github.com/sca-285/sd-webui-prompt-vault",
+   "description": "Searchable tag library, saved prompts, history and local AI (TIPO, Qwen-VL, WD14) for Stable Diffusion WebUI Forge.",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "prompting"
+   ],
+   "full_name": "sca-285/sd-webui-prompt-vault",
+   "github_description": "Searchable tag library, saved prompts, history and local AI (TIPO, Qwen-VL, WD14) for Stable Diffusion WebUI Forge.",
+   "stars": 1,
+   "created_at": "2026-09-29T00:00:00Z",
+   "commit_time": "2026-10-19T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 LoRA Mixer",
+   "url": "https://github.com/sca-285/sd-forge-neo-LORA-mixer",
+   "description": "An extension that inspired on rgthree's node Power LORA loader and deprecated A1111/Additional Networks ",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "script"
+   ],
+   "full_name": "sca-285/sd-forge-neo-LORA-mixer",
+   "github_description": "An extension that inspired on rgthree's node Power LORA loader and deprecated A1111/Additional Networks ",
+   "stars": 0,
+   "created_at": "2026-09-28T00:00:00Z",
+   "commit_time": "2026-10-19T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Kitchen Samplers",
+   "url": "https://github.com/sca-285/sd-kitchen-samplers",
+   "description": "Extra samplers and schedule types for Forge, reForge and Forge Classic (Neo). Each algorithm is offered once.",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "script"
+   ],
+   "full_name": "sca-285/sd-kitchen-samplers",
+   "github_description": "Extra samplers and schedule types for Forge, reForge and Forge Classic (Neo). Each algorithm is offered once.",
+   "stars": 2,
+   "created_at": "2026-09-23T00:00:00Z",
+   "commit_time": "2026-09-25T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Auto Color Corrector",
+   "url": "https://github.com/sca-285/sd-forge-auto-color-corrector",
+   "description": " Fixing on colour casts, milky blacks matte of generated picture",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "editing"
+   ],
+   "full_name": "sca-285/sd-forge-auto-color-corrector",
+   "github_description": " Fixing on colour casts, milky blacks matte of generated picture",
+   "stars": 1,
+   "created_at": "2026-10-05T00:00:00Z",
+   "commit_time": "2026-10-09T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Optical Realism",
+   "url": "https://github.com/sca-285/sd-forge-optical-realism",
+   "description": "Makes a generated image look photographed: lens traits, depth of field, light scatter, haze and film character",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "editing"
+   ],
+   "full_name": "sca-285/sd-forge-optical-realism",
+   "github_description": "Makes a generated image look photographed: lens traits, depth of field, light scatter, haze and film character",
+   "stars": 1,
+   "created_at": "2026-10-04T00:00:00Z",
+   "commit_time": "2026-10-19T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Digital Mastering",
+   "url": "https://github.com/sca-285/sd-webui-digital-mastering",
+   "description": "Post-processing mimic extension.",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "editing"
+   ],
+   "full_name": "sca-285/sd-webui-digital-mastering",
+   "github_description": "Post-processing mimic extension.",
+   "stars": 1,
+   "created_at": "2026-09-26T00:00:00Z",
+   "commit_time": "2026-10-09T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Photopea Embed (ReForge / Neo)",
+   "url": "https://github.com/sca-285/sd-webui-photopea-embed-ReForge-Neo",
+   "description": "A simple Stable Diffusion WebUI extension that adds a Photopea tab and integration. This fork is an adaption for Neo and Reforge, fix some bugs.",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "tab",
+    "editing"
+   ],
+   "full_name": "sca-285/sd-webui-photopea-embed-ReForge-Neo",
+   "github_description": "A simple Stable Diffusion WebUI extension that adds a Photopea tab and integration. This fork is an adaption for Neo and Reforge, fix some bugs.",
+   "stars": 0,
+   "created_at": "2026-09-23T00:00:00Z",
+   "commit_time": "2026-09-23T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Lobe Theme Redux",
+   "url": "https://github.com/sca-285/sd-webui-lobe-theme-redux",
+   "description": "🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "UI related"
+   ],
+   "full_name": "sca-285/sd-webui-lobe-theme-redux",
+   "github_description": "🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.",
+   "stars": 0,
+   "created_at": "2026-09-25T00:00:00Z",
+   "commit_time": "2026-10-18T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Forge Notebook",
+   "url": "https://github.com/sca-285/sd-forge-notebook",
+   "description": "A tool allow you to note on Forge/reForge/Neo, support floating window.",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "UI related"
+   ],
+   "full_name": "sca-285/sd-forge-notebook",
+   "github_description": "A tool allow you to note on Forge/reForge/Neo, support floating window.",
+   "stars": 0,
+   "created_at": "2026-09-26T00:00:00Z",
+   "commit_time": "2026-09-28T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Florence-2 (Neo)",
+   "url": "https://github.com/AMGarkin/sd-webui-florence-2-neo",
+   "description": "Image description extension for SD WebUI Forge Neo",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "query"
+   ],
+   "full_name": "AMGarkin/sd-webui-florence-2-neo",
+   "github_description": "Image description extension for SD WebUI Forge Neo",
+   "stars": 2,
+   "created_at": "2026-07-24T00:00:00Z",
+   "commit_time": "2026-10-18T00:00:00Z",
+   "default_branch": "main"
   }
  ]
 }

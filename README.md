@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
-[![Entries](https://img.shields.io/badge/Entries-387-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-68-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-405-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-86-informational)](index.json)
 
 > **An extension index for [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -51,6 +51,9 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Lama Cleaner Neo](https://github.com/abzaloff/forge-neo-lama-cleaner) | abzaloff |
 | [ReActor NSFW Freedom](https://github.com/kainatquaderee/sd-webui-reactor-Nsfw_freedom) | kainatquaderee |
 | [Face Editor](https://github.com/ototadana/sd-face-editor) | ototadana (original, runs on Neo) |
+| [Visage](https://github.com/eduardoabreu81/visage-forge-neo) | eduardoabreu81 |
+| [Impact ADetailer Neo](https://github.com/sca-285/sd-Impact-ADetailer-Neo) | sca-285 |
+| [ReActor (abzaloff)](https://github.com/abzaloff/sd-webui-reactor) | abzaloff |
 
 ### Prompting
 
@@ -62,6 +65,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Dynamic Prompts Neo](https://github.com/abzaloff/sd-dynamic-prompts) | abzaloff |
 | [Prompt Save (Forge)](https://github.com/zeydsama/sd-forge-prompt-save) | zeydsama |
 | [Yapping](https://github.com/Haoming02/sd-webui-yapping) | Haoming02 |
+| [Prompt Vault](https://github.com/sca-285/sd-webui-prompt-vault) | sca-285 |
 
 ### Wildcards & composers
 
@@ -77,6 +81,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [LoRA Quickpick](https://github.com/abzaloff/sd-webui-lora-quickpick) | abzaloff |
 | [LoRA Block Weight (ForgeNeo Anima)](https://github.com/kiygskr/sd-webui-lora-block-weight-forgeneo-anima) | kiygskr |
 | [TrainTrain](https://github.com/hako-mikan/sd-webui-traintrain) | hako-mikan |
+| [LoRA Mixer](https://github.com/sca-285/sd-forge-neo-LORA-mixer) | sca-285 |
 
 ### Checkpoint merging
 
@@ -109,6 +114,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [DLSS5](https://github.com/zeydsama/sd-forge-dlss5) | zeydsama |
 | [Extra Schedulers (Neo)](https://github.com/aoleg/Neo_ExtraSchedulers) | aoleg |
 | [SPEED](https://github.com/aoleg/ComfyUI-SPEED) | aoleg |
+| [Kitchen Samplers](https://github.com/sca-285/sd-kitchen-samplers) | sca-285 |
 
 ### Regional, conditioning & effects
 
@@ -120,12 +126,18 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Krea 2 Conditioning Control](https://github.com/aoleg/neo-krea2-conditioning) | aoleg |
 | [Krea2 NAG](https://github.com/aoleg/Neo-Krea2-NAG) | aoleg |
 | [Krea 2 Edit V2](https://github.com/eduardoabreu81/krea2-edit-forge-neo) | eduardoabreu81 |
+| [Regional Boxes](https://github.com/eduardoabreu81/sd-regional-boxes-neo) | eduardoabreu81 |
+| [NegPiP (Krea 2 / MOSS-Image)](https://github.com/flyfront/sd-forge-negpip) | flyfront |
+| [Steer CFG Attention Guidance](https://github.com/sca-285/sd-steer-cfg-attention-guidance) | sca-285 |
 
-### Upscale & restoration
+### Upscale, restoration & finishing
 
 | Extension | Author |
 | --- | --- |
 | [SeedVR2 (Neo)](https://github.com/aoleg/seedvr2-webui-neo-extension) | aoleg |
+| [Auto Color Corrector](https://github.com/sca-285/sd-forge-auto-color-corrector) | sca-285 |
+| [Optical Realism](https://github.com/sca-285/sd-forge-optical-realism) | sca-285 |
+| [Digital Mastering](https://github.com/sca-285/sd-webui-digital-mastering) | sca-285 |
 
 ### UI & workflow
 
@@ -140,6 +152,10 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [TIPO PNGInfo Restore](https://github.com/seti9585/sd-webui-TIPO-PNGInfo-Restore) | seti9585 |
 | [Repeat Generate 4NEO](https://github.com/hirorohi03/repeat-generate-4NEO) | hirorohi03 |
 | [WD 1.4 Tagger (Neo)](https://github.com/hirorohi03/stable-diffusion-webui-wd14-tagger) | hirorohi03 |
+| [Photopea Embed (ReForge / Neo)](https://github.com/sca-285/sd-webui-photopea-embed-ReForge-Neo) | sca-285 |
+| [Lobe Theme Redux](https://github.com/sca-285/sd-webui-lobe-theme-redux) | sca-285 |
+| [Forge Notebook](https://github.com/sca-285/sd-forge-notebook) | sca-285 |
+| [Florence-2 (Neo)](https://github.com/AMGarkin/sd-webui-florence-2-neo) | AMGarkin |
 
 ### Model engines (models not native to Forge Neo yet)
 
@@ -148,6 +164,8 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Iris-3B for Forge Neo](https://github.com/eduardoabreu81/iris-3b-forge-neo) | eduardoabreu81 |
 | [MiniMax H3 for Forge Neo](https://github.com/eduardoabreu81/minimax-h3-forge-neo) | eduardoabreu81 |
 | [Qwen-Image 2.1 for Forge Neo](https://github.com/eduardoabreu81/qwen2.1-forge-neo) | eduardoabreu81 |
+| [MOSS-Image for Forge Neo](https://github.com/eduardoabreu81/moss-image-forge-neo) | eduardoabreu81 |
+| [FIBO 2 for Forge Neo](https://github.com/eduardoabreu81/fibo2-forge-neo) | eduardoabreu81 |
 
 ### Also tagged 🟢 (already in the classic index)
 
