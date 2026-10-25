@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
-[![Entries](https://img.shields.io/badge/Entries-386-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-67-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-387-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-68-informational)](index.json)
 
 > **An extension index for [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -119,6 +119,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [NegPiP (Krea 2)](https://github.com/aoleg/neo-krea2-negpip) | aoleg |
 | [Krea 2 Conditioning Control](https://github.com/aoleg/neo-krea2-conditioning) | aoleg |
 | [Krea2 NAG](https://github.com/aoleg/Neo-Krea2-NAG) | aoleg |
+| [Krea 2 Edit V2](https://github.com/eduardoabreu81/krea2-edit-forge-neo) | eduardoabreu81 |
 
 ### Upscale & restoration
 

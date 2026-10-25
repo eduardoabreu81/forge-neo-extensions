@@ -73,6 +73,7 @@ NEO_ADDITIONS = {
     "aoleg/neo-krea2-negpip": ("NegPiP (Krea 2)", ["prompting"]),
     "aoleg/neo-krea2-conditioning": ("Krea 2 Conditioning Control", ["prompting"]),
     "aoleg/Neo-Krea2-NAG": ("Krea2 NAG", ["prompting"]),
+    "eduardoabreu81/krea2-edit-forge-neo": ("Krea 2 Edit V2", ["editing"]),
     "aoleg/ComfyUI-SPEED": ("SPEED", ["script"]),
     "aoleg/ComfyUI-Colorcraft": ("Colorcraft", ["editing", "manipulations"]),
     "aoleg/seedvr2-webui-neo-extension": ("SeedVR2 (Neo)", ["manipulations"]),

@@ -6250,6 +6250,22 @@
    "default_branch": "main"
   },
   {
+   "name": "🟢 Krea 2 Edit V2",
+   "url": "https://github.com/eduardoabreu81/krea2-edit-forge-neo",
+   "description": "Krea 2 Identity Edit V2 / General Edit V2 controls for Forge Neo: reference boost, placement (aligned / beside), fit and grounding",
+   "added": "2026-10-25",
+   "tags": [
+    "forge-neo",
+    "editing"
+   ],
+   "full_name": "eduardoabreu81/krea2-edit-forge-neo",
+   "github_description": "Krea 2 Identity Edit V2 / General Edit V2 controls for Forge Neo: reference boost, placement (aligned / beside), fit and grounding",
+   "stars": 0,
+   "created_at": "2026-10-25T00:00:00Z",
+   "commit_time": "2026-10-25T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
    "name": "🟢 SPEED",
    "url": "https://github.com/aoleg/ComfyUI-SPEED",
    "description": "A ForgeNeo Unofficial Implementation of Spectral Progressive Diffusion for Efficient Image and Video Generation for Anima",
