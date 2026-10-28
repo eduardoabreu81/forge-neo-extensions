@@ -6765,6 +6765,22 @@
    "created_at": "2026-07-24T00:00:00Z",
    "commit_time": "2026-10-18T00:00:00Z",
    "default_branch": "main"
+  },
+  {
+   "name": "🟢 Anima Reference",
+   "url": "https://github.com/eduardoabreu81/anima-reference-forge-neo",
+   "description": "Anima character reference for Stable Diffusion WebUI Forge Neo: one picture of a character, any scene from the prompt, with ElectronGirl's Ref Adapter and AnticPan's Role Ref KV",
+   "added": "2026-10-28",
+   "tags": [
+    "forge-neo",
+    "editing"
+   ],
+   "full_name": "eduardoabreu81/anima-reference-forge-neo",
+   "github_description": "Anima character reference for Stable Diffusion WebUI Forge Neo: one picture of a character, any scene from the prompt, with ElectronGirl's Ref Adapter and AnticPan's Role Ref KV",
+   "stars": 0,
+   "created_at": "2026-10-28T00:00:00Z",
+   "commit_time": "2026-10-28T00:00:00Z",
+   "default_branch": "main"
   }
  ]
 }

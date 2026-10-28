@@ -105,6 +105,7 @@ NEO_ADDITIONS = {
     "sca-285/sd-webui-lobe-theme-redux": ("Lobe Theme Redux", ["UI related"]),
     "sca-285/sd-forge-notebook": ("Forge Notebook", ["UI related"]),
     "AMGarkin/sd-webui-florence-2-neo": ("Florence-2 (Neo)", ["query"]),
+    "eduardoabreu81/anima-reference-forge-neo": ("Anima Reference", ["editing"]),
 }
 
 

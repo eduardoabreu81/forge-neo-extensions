@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
-[![Entries](https://img.shields.io/badge/Entries-405-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-86-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-406-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-87-informational)](index.json)
 
 > **An extension index for [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -129,6 +129,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Regional Boxes](https://github.com/eduardoabreu81/sd-regional-boxes-neo) | eduardoabreu81 |
 | [NegPiP (Krea 2 / MOSS-Image)](https://github.com/flyfront/sd-forge-negpip) | flyfront |
 | [Steer CFG Attention Guidance](https://github.com/sca-285/sd-steer-cfg-attention-guidance) | sca-285 |
+| [Anima Reference](https://github.com/eduardoabreu81/anima-reference-forge-neo) | eduardoabreu81 |
 
 ### Upscale, restoration & finishing
 
