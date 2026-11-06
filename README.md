@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
-[![Entries](https://img.shields.io/badge/Entries-406-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-87-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-407-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-88-informational)](index.json)
 
 > **An extension index for [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -167,6 +167,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Qwen-Image 2.1 for Forge Neo](https://github.com/eduardoabreu81/qwen2.1-forge-neo) | eduardoabreu81 |
 | [MOSS-Image for Forge Neo](https://github.com/eduardoabreu81/moss-image-forge-neo) | eduardoabreu81 |
 | [FIBO 2 for Forge Neo](https://github.com/eduardoabreu81/fibo2-forge-neo) | eduardoabreu81 |
+| [Idol for Forge Neo](https://github.com/eduardoabreu81/idol-forge-neo) | eduardoabreu81 |
 
 ### Also tagged 🟢 (already in the classic index)
 
