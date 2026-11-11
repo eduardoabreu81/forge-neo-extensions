@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
-[![Entries](https://img.shields.io/badge/Entries-407-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-88-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-408-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-89-informational)](index.json)
 
 > **An extension index for [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -66,6 +66,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Prompt Save (Forge)](https://github.com/zeydsama/sd-forge-prompt-save) | zeydsama |
 | [Yapping](https://github.com/Haoming02/sd-webui-yapping) | Haoming02 |
 | [Prompt Vault](https://github.com/sca-285/sd-webui-prompt-vault) | sca-285 |
+| [Prompt Effect Forge Neo](https://github.com/ukr8b3g-cmyk/Prompt-Effect-Forge-Neo) | ukr8b3g-cmyk |
 
 ### Wildcards & composers
 

@@ -107,6 +107,7 @@ NEO_ADDITIONS = {
     "AMGarkin/sd-webui-florence-2-neo": ("Florence-2 (Neo)", ["query"]),
     "eduardoabreu81/anima-reference-forge-neo": ("Anima Reference", ["editing"]),
     "eduardoabreu81/idol-forge-neo": ("Idol for Forge Neo", ["models"]),
+    "ukr8b3g-cmyk/Prompt-Effect-Forge-Neo": ("Prompt Effect Forge Neo", ["prompting", "tab"]),
 }
 
 

@@ -6797,6 +6797,23 @@
    "created_at": "2026-11-06T00:00:00Z",
    "commit_time": "2026-11-06T00:00:00Z",
    "default_branch": "main"
+  },
+  {
+   "name": "🟢 Prompt Effect Forge Neo",
+   "url": "https://github.com/ukr8b3g-cmyk/Prompt-Effect-Forge-Neo",
+   "description": "Browse and insert 176 visual prompt effects in Forge Neo, with preview cards, Photo/Anime Style Boost, favorites, and recent history.",
+   "added": "2026-11-11",
+   "tags": [
+    "forge-neo",
+    "prompting",
+    "tab"
+   ],
+   "full_name": "ukr8b3g-cmyk/Prompt-Effect-Forge-Neo",
+   "github_description": "Browse and insert 176 visual prompt effects in Forge Neo, with preview cards, Photo/Anime Style Boost, favorites, and recent history.",
+   "stars": 1,
+   "created_at": "2026-11-11T00:00:00Z",
+   "commit_time": "2026-11-11T00:00:00Z",
+   "default_branch": "main"
   }
  ]
 }
