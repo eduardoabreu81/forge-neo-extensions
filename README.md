@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
-[![Entries](https://img.shields.io/badge/Entries-408-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-89-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-409-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-90-informational)](index.json)
 
 > **An extension index for [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -146,6 +146,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | Extension | Author |
 | --- | --- |
 | [State Manager Neo](https://github.com/eduardoabreu81/sd-webui-state-manager-neo) | eduardoabreu81 |
+| [Model Profiles](https://github.com/eduardoabreu81/sd-model-profiles-neo) | eduardoabreu81 |
 | [Split Extra Networks](https://github.com/BulbulLeung/forge-split-extra-networks) | BulbulLeung |
 | [Generation Layout](https://github.com/BulbulLeung/sd-generation-layout) | BulbulLeung |
 | [Folder Switcher](https://github.com/diamfang/sd-webui-folder-switcher) | diamfang |

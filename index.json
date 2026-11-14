@@ -6814,6 +6814,23 @@
    "created_at": "2026-11-11T00:00:00Z",
    "commit_time": "2026-11-11T00:00:00Z",
    "default_branch": "main"
+  },
+  {
+   "name": "🟢 Model Profiles",
+   "url": "https://github.com/eduardoabreu81/sd-model-profiles-neo",
+   "description": "Several setups per UI Preset in Forge Neo - Base and Turbo, SDXL and Pony - switched in one click, with LoRA tags, history and backups",
+   "added": "2026-11-13",
+   "tags": [
+    "forge-neo",
+    "UI related",
+    "script"
+   ],
+   "full_name": "eduardoabreu81/sd-model-profiles-neo",
+   "github_description": "Several setups per UI Preset in Forge Neo - Base and Turbo, SDXL and Pony - switched in one click, with LoRA tags, history and backups",
+   "stars": 0,
+   "created_at": "2026-11-13T00:00:00Z",
+   "commit_time": "2026-11-13T00:00:00Z",
+   "default_branch": "main"
   }
  ]
 }
