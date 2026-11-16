@@ -3,14 +3,15 @@
 <div align="center">
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
+[![Default index](https://img.shields.io/badge/Forge_Neo-default_index-success)](https://github.com/Haoming02/sd-webui-forge-classic/commit/e67193d9)
 [![Entries](https://img.shields.io/badge/Entries-419-brightgreen)](index.json)
 [![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-100-informational)](index.json)
 
-> **An extension index for [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
+> **The default extension index of [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
 </div>
 
-The **Extensions → Available** tab in Forge Neo loads AUTOMATIC1111's classic index by default, so almost nothing of the Forge Neo ecosystem shows up there. This repository hosts a drop-in replacement: the classic index with everything dead removed, **plus the Forge Neo ecosystem** — every Neo extension marked with a 🟢 in the name and a `forge-neo` tag you can filter.
+Since **15 November 2026** ([`e67193d9`](https://github.com/Haoming02/sd-webui-forge-classic/commit/e67193d9), *rewrite Extensions tab*), the **Extensions → Available** tab in Forge Neo loads this index out of the box. It is AUTOMATIC1111's classic index with everything dead removed, **plus the Forge Neo ecosystem**: every Neo extension marked with a 🟢 in the name and a `forge-neo` tag you can filter.
 
 | Classic index | This index |
 | :---: | :---: |
@@ -18,25 +19,34 @@ The **Extensions → Available** tab in Forge Neo loads AUTOMATIC1111's classic 
 
 ## Use
 
-In **Extensions → Available**, paste this URL into *Extension index URL* and click **Load from**:
+Update Forge Neo, open **Extensions → Available** and click **Load from Index**. Nothing to configure.
+
+To list only the Neo ecosystem, tick the `forge-neo` tag and switch **Filter Type** to *show*. The **2025+** box is ticked by default, so untick it to see older extensions too:
+
+![forge-neo filter](media/filter.png)
+
+> [!NOTE]
+> Extensions in this index are made by third parties. Check an extension's repository before you install it, as the note in the Available tab says.
+
+### Older builds, or a different index
+
+On a Forge Neo build from before 15 November 2026, paste this URL into the index field of **Extensions → Available** and click **Load from**:
 
 ```text
 https://raw.githubusercontent.com/eduardoabreu81/forge-neo-extensions/main/index.json
 ```
 
-To list only the Neo ecosystem, tick the `forge-neo` tag and switch **Showing type** to *show*:
-
-![forge-neo filter](media/filter.png)
-
-### Make it the default
-
-Forge Neo reads the index URL from the `WEBUI_EXTENSIONS_INDEX` environment variable. Add this line to `webui-user.bat`, before `call webui.bat`, and the Available tab loads this list by default, even after Forge updates:
+Forge Neo still reads the `WEBUI_EXTENSIONS_INDEX` environment variable first, so a value set there overrides this default. If you set it earlier to point at this index, it keeps working and can stay or go. To use another index instead, set it in `webui-user.bat`, before `call webui.bat`:
 
 ```bat
-set WEBUI_EXTENSIONS_INDEX=https://raw.githubusercontent.com/eduardoabreu81/forge-neo-extensions/main/index.json
+set WEBUI_EXTENSIONS_INDEX=https://example.com/your-index.json
 ```
 
 On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
+
+## Add an extension
+
+Made an extension that runs on Forge Neo, or found one missing? [Open an issue](https://github.com/eduardoabreu81/forge-neo-extensions/issues) with the repository link.
 
 ## The Forge Neo list
 
