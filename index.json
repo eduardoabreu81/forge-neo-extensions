@@ -6831,6 +6831,173 @@
    "created_at": "2026-11-13T00:00:00Z",
    "commit_time": "2026-11-13T00:00:00Z",
    "default_branch": "main"
+  },
+  {
+   "name": "🟢 Krea2 Enhancer",
+   "url": "https://github.com/abzaloff/forge-neo-krea2-enhancer",
+   "description": "Improves prompt adherence on Krea 2 models with a controlled adjustment inside the Krea 2 text-fusion path during sampling.",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "prompting"
+   ],
+   "full_name": "abzaloff/forge-neo-krea2-enhancer",
+   "github_description": "Krea2 Enhancer is a Forge Neo extension for Krea 2 models. It improves prompt adherence by applying a controlled adjustment inside the Krea 2 text-fusion path during sampling.",
+   "stars": 11,
+   "created_at": "2026-06-29T00:00:00Z",
+   "commit_time": "2026-11-11T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Seed Variance Enhancer",
+   "url": "https://github.com/abzaloff/sd-forge-sve",
+   "description": "Improves the run-to-run variance for distilled models in Forge Neo.",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "script"
+   ],
+   "full_name": "abzaloff/sd-forge-sve",
+   "github_description": "Seed Variance Enhancer",
+   "stars": 8,
+   "created_at": "2026-04-20T00:00:00Z",
+   "commit_time": "2026-11-09T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Mistral Prompt",
+   "url": "https://github.com/abzaloff/mistral_prompt_extension",
+   "description": "Generates prompts from images with Mistral, Gemini, Groq, free OpenRouter models or local LM Studio models (OpenAI-compatible API).",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "prompting",
+    "query",
+    "online"
+   ],
+   "full_name": "abzaloff/mistral_prompt_extension",
+   "github_description": "Extension for Forge/Stable Diffusion WebUI that generates prompts from images using the Mistral API (pixtral-large-latest).",
+   "stars": 10,
+   "created_at": "2026-03-31T00:00:00Z",
+   "commit_time": "2026-11-08T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Aspect Ratio Helper (Neo)",
+   "url": "https://github.com/abzaloff/forge-neo-aspect-ratio-helper",
+   "description": "Simple extension to easily maintain aspect ratio while changing dimensions.",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "UI related"
+   ],
+   "full_name": "abzaloff/forge-neo-aspect-ratio-helper",
+   "github_description": "Simple extension to easily maintain aspect ratio while changing dimensions.  Install via the extensions tab on the AUTOMATIC1111 webui.",
+   "stars": 6,
+   "created_at": "2026-03-01T00:00:00Z",
+   "commit_time": "2026-10-13T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Forge Neo Converter",
+   "url": "https://github.com/abzaloff/forge-neo-converter",
+   "description": "Converts .safetensors diffusion models and text encoders between precision and quantization formats directly from the Forge UI.",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "abzaloff/forge-neo-converter",
+   "github_description": "Forge Neo Converter is a Forge Neo extension for converting `.safetensors` diffusion model files between precision and quantization formats directly from the Forge UI.",
+   "stars": 9,
+   "created_at": "2026-07-08T00:00:00Z",
+   "commit_time": "2026-09-28T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Small Translate",
+   "url": "https://github.com/abzaloff/small-translate",
+   "description": "Translate your positive prompt inside Forge Neo with one key press or live auto-translation.",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "prompting",
+    "online"
+   ],
+   "full_name": "abzaloff/small-translate",
+   "github_description": "",
+   "stars": 4,
+   "created_at": "2026-04-14T00:00:00Z",
+   "commit_time": "2026-09-14T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Forge Neo Colorizer",
+   "url": "https://github.com/abzaloff/forge-neo-colorizer",
+   "description": "Post-processing and color-grading extension for Forge Neo and compatible SD WebUI Forge installations.",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "editing",
+    "manipulations"
+   ],
+   "full_name": "abzaloff/forge-neo-colorizer",
+   "github_description": "Forge Neo Colorizer",
+   "stars": 3,
+   "created_at": "2026-08-07T00:00:00Z",
+   "commit_time": "2026-08-11T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Tagger Prompt",
+   "url": "https://github.com/abzaloff/tagger_prompt",
+   "description": "Turns an input image into prompt tags inside the Stable Diffusion UI.",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "prompting",
+    "query"
+   ],
+   "full_name": "abzaloff/tagger_prompt",
+   "github_description": "`Tagger Prompt` is a small Forge extension that turns an input image into prompt tags inside the Stable Diffusion UI",
+   "stars": 12,
+   "created_at": "2026-03-18T00:00:00Z",
+   "commit_time": "2026-07-24T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 VRAM/RAM Cleaner",
+   "url": "https://github.com/abzaloff/forge-neo-vram-ram-cleaner",
+   "description": "Adds a small broom button to the Forge top bar, next to the checkpoint refresh button, to free VRAM and RAM.",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "UI related",
+    "script"
+   ],
+   "full_name": "abzaloff/forge-neo-vram-ram-cleaner",
+   "github_description": "Forge Neo VRAM/RAM Cleaner",
+   "stars": 2,
+   "created_at": "2026-07-19T00:00:00Z",
+   "commit_time": "2026-07-19T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Inpaint Support",
+   "url": "https://github.com/abzaloff/forge-inpaint-support",
+   "description": "Faster brush control in img2img Sketch, Inpaint and Inpaint Sketch (client-side).",
+   "added": "2026-11-16",
+   "tags": [
+    "forge-neo",
+    "editing",
+    "UI related"
+   ],
+   "full_name": "abzaloff/forge-inpaint-support",
+   "github_description": "Small Forge Neo client-side extension for faster brush control in `img2img` Sketch, Inpaint, and Inpaint Sketch.",
+   "stars": 1,
+   "created_at": "2026-07-04T00:00:00Z",
+   "commit_time": "2026-07-05T00:00:00Z",
+   "default_branch": "main"
   }
  ]
 }

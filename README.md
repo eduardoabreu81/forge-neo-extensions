@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
-[![Entries](https://img.shields.io/badge/Entries-409-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-90-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-419-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-100-informational)](index.json)
 
 > **An extension index for [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -54,6 +54,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Visage](https://github.com/eduardoabreu81/visage-forge-neo) | eduardoabreu81 |
 | [Impact ADetailer Neo](https://github.com/sca-285/sd-Impact-ADetailer-Neo) | sca-285 |
 | [ReActor (abzaloff)](https://github.com/abzaloff/sd-webui-reactor) | abzaloff |
+| [Inpaint Support](https://github.com/abzaloff/forge-inpaint-support) | abzaloff |
 
 ### Prompting
 
@@ -67,6 +68,9 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Yapping](https://github.com/Haoming02/sd-webui-yapping) | Haoming02 |
 | [Prompt Vault](https://github.com/sca-285/sd-webui-prompt-vault) | sca-285 |
 | [Prompt Effect Forge Neo](https://github.com/ukr8b3g-cmyk/Prompt-Effect-Forge-Neo) | ukr8b3g-cmyk |
+| [Mistral Prompt](https://github.com/abzaloff/mistral_prompt_extension) | abzaloff |
+| [Small Translate](https://github.com/abzaloff/small-translate) | abzaloff |
+| [Tagger Prompt](https://github.com/abzaloff/tagger_prompt) | abzaloff |
 
 ### Wildcards & composers
 
@@ -102,6 +106,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Models Info (Neo)](https://github.com/Squibeel/models-info) | Squibeel |
 | [NAI API](https://github.com/Metachs/sdwebui-nai-api) | Metachs |
 | [xCloneCleaner](https://github.com/sdprompts/xCloneCleaner) | sdprompts |
+| [Forge Neo Converter](https://github.com/abzaloff/forge-neo-converter) | abzaloff |
 
 ### Samplers & schedulers
 
@@ -131,6 +136,8 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [NegPiP (Krea 2 / MOSS-Image)](https://github.com/flyfront/sd-forge-negpip) | flyfront |
 | [Steer CFG Attention Guidance](https://github.com/sca-285/sd-steer-cfg-attention-guidance) | sca-285 |
 | [Anima Reference](https://github.com/eduardoabreu81/anima-reference-forge-neo) | eduardoabreu81 |
+| [Krea2 Enhancer](https://github.com/abzaloff/forge-neo-krea2-enhancer) | abzaloff |
+| [Seed Variance Enhancer](https://github.com/abzaloff/sd-forge-sve) | abzaloff (fork of Haoming02's) |
 
 ### Upscale, restoration & finishing
 
@@ -140,6 +147,7 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Auto Color Corrector](https://github.com/sca-285/sd-forge-auto-color-corrector) | sca-285 |
 | [Optical Realism](https://github.com/sca-285/sd-forge-optical-realism) | sca-285 |
 | [Digital Mastering](https://github.com/sca-285/sd-webui-digital-mastering) | sca-285 |
+| [Forge Neo Colorizer](https://github.com/abzaloff/forge-neo-colorizer) | abzaloff |
 
 ### UI & workflow
 
@@ -159,6 +167,8 @@ On Linux or macOS, use `export WEBUI_EXTENSIONS_INDEX=...` in `webui-user.sh`.
 | [Lobe Theme Redux](https://github.com/sca-285/sd-webui-lobe-theme-redux) | sca-285 |
 | [Forge Notebook](https://github.com/sca-285/sd-forge-notebook) | sca-285 |
 | [Florence-2 (Neo)](https://github.com/AMGarkin/sd-webui-florence-2-neo) | AMGarkin |
+| [Aspect Ratio Helper (Neo)](https://github.com/abzaloff/forge-neo-aspect-ratio-helper) | abzaloff |
+| [VRAM/RAM Cleaner](https://github.com/abzaloff/forge-neo-vram-ram-cleaner) | abzaloff |
 
 ### Model engines (models not native to Forge Neo yet)
 

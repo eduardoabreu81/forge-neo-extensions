@@ -109,6 +109,16 @@ NEO_ADDITIONS = {
     "eduardoabreu81/idol-forge-neo": ("Idol for Forge Neo", ["models"]),
     "ukr8b3g-cmyk/Prompt-Effect-Forge-Neo": ("Prompt Effect Forge Neo", ["prompting", "tab"]),
     "eduardoabreu81/sd-model-profiles-neo": ("Model Profiles", ["UI related", "script"]),
+    "abzaloff/forge-neo-krea2-enhancer": ("Krea2 Enhancer", ["prompting"]),
+    "abzaloff/sd-forge-sve": ("Seed Variance Enhancer", ["script"]),
+    "abzaloff/mistral_prompt_extension": ("Mistral Prompt", ["prompting", "query", "online"]),
+    "abzaloff/forge-neo-aspect-ratio-helper": ("Aspect Ratio Helper (Neo)", ["UI related"]),
+    "abzaloff/forge-neo-converter": ("Forge Neo Converter", ["models"]),
+    "abzaloff/small-translate": ("Small Translate", ["prompting", "online"]),
+    "abzaloff/forge-neo-colorizer": ("Forge Neo Colorizer", ["editing", "manipulations"]),
+    "abzaloff/tagger_prompt": ("Tagger Prompt", ["prompting", "query"]),
+    "abzaloff/forge-neo-vram-ram-cleaner": ("VRAM/RAM Cleaner", ["UI related", "script"]),
+    "abzaloff/forge-inpaint-support": ("Inpaint Support", ["editing", "UI related"]),
 }
 
 
