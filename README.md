@@ -4,8 +4,8 @@
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
 [![Default index](https://img.shields.io/badge/Forge_Neo-default_index-success)](https://github.com/Haoming02/sd-webui-forge-classic/commit/e67193d9)
-[![Entries](https://img.shields.io/badge/Entries-419-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-100-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-420-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-101-informational)](index.json)
 
 > **The default extension index of [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -165,6 +165,7 @@ Made an extension that runs on Forge Neo, or found one missing? [Open an issue](
 | --- | --- |
 | [State Manager Neo](https://github.com/eduardoabreu81/sd-webui-state-manager-neo) | eduardoabreu81 |
 | [Model Profiles](https://github.com/eduardoabreu81/sd-model-profiles-neo) | eduardoabreu81 |
+| [Resolution Plus](https://github.com/eduardoabreu81/sd-resolution-plus-neo) | eduardoabreu81 |
 | [Split Extra Networks](https://github.com/BulbulLeung/forge-split-extra-networks) | BulbulLeung |
 | [Generation Layout](https://github.com/BulbulLeung/sd-generation-layout) | BulbulLeung |
 | [Folder Switcher](https://github.com/diamfang/sd-webui-folder-switcher) | diamfang |

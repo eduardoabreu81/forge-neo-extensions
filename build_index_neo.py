@@ -109,6 +109,7 @@ NEO_ADDITIONS = {
     "eduardoabreu81/idol-forge-neo": ("Idol for Forge Neo", ["models"]),
     "ukr8b3g-cmyk/Prompt-Effect-Forge-Neo": ("Prompt Effect Forge Neo", ["prompting", "tab"]),
     "eduardoabreu81/sd-model-profiles-neo": ("Model Profiles", ["UI related", "script"]),
+    "eduardoabreu81/sd-resolution-plus-neo": ("Resolution Plus", ["UI related"]),
     "abzaloff/forge-neo-krea2-enhancer": ("Krea2 Enhancer", ["prompting"]),
     "abzaloff/sd-forge-sve": ("Seed Variance Enhancer", ["script"]),
     "abzaloff/mistral_prompt_extension": ("Mistral Prompt", ["prompting", "query", "online"]),
