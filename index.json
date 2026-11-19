@@ -7047,6 +7047,104 @@
    "created_at": "2026-11-17T00:00:00Z",
    "commit_time": "2026-11-17T00:00:00Z",
    "default_branch": "main"
+  },
+  {
+   "name": "🟢 Speech Bubble Comic Editor",
+   "url": "https://github.com/ukr8b3g-cmyk/Speech-Bubble-Comic-Editor-for-Forge-Neo",
+   "description": "A local post-production editor for images and comic layouts: speech bubbles, vertical text, sound-effect stamps, cropping, retouching, monochrome conversion, background removal and export.",
+   "added": "2026-11-19",
+   "tags": [
+    "forge-neo",
+    "UI related",
+    "editing"
+   ],
+   "full_name": "ukr8b3g-cmyk/Speech-Bubble-Comic-Editor-for-Forge-Neo",
+   "github_description": "",
+   "stars": 2,
+   "created_at": "2026-08-04T00:00:00Z",
+   "commit_time": "2026-10-24T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Forge Neo Auto VRAM Purge",
+   "url": "https://github.com/ukr8b3g-cmyk/sd-webui-forge-neo-auto-vram-purge",
+   "description": "Optional VRAM cleanup for Forge Neo: uses the native model unload when idle and pauses it during Generate Forever.",
+   "added": "2026-11-19",
+   "tags": [
+    "forge-neo",
+    "UI related",
+    "script"
+   ],
+   "full_name": "ukr8b3g-cmyk/sd-webui-forge-neo-auto-vram-purge",
+   "github_description": "sd-webui-forge-neo-auto-vram-purge",
+   "stars": 3,
+   "created_at": "2026-08-30T00:00:00Z",
+   "commit_time": "2026-11-04T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 TagComplete Neo Multi-CSV",
+   "url": "https://github.com/ukr8b3g-cmyk/TagComplete-Neo-Multi-CSV",
+   "description": "A Forge / Forge Neo fork of TagComplete Neo with multi-CSV tag and translation support, source-aware merging, natural-language suggestions, and user presets.",
+   "added": "2026-11-19",
+   "tags": [
+    "forge-neo",
+    "prompting"
+   ],
+   "full_name": "ukr8b3g-cmyk/TagComplete-Neo-Multi-CSV",
+   "github_description": "A Forge / Forge Neo fork of TagComplete Neo with multi-CSV tag and translation support, source-aware merging, natural-language suggestions, and user presets.",
+   "stars": 6,
+   "created_at": "2026-07-27T00:00:00Z",
+   "commit_time": "2026-11-03T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Forge Neo Resolution Presets",
+   "url": "https://github.com/ukr8b3g-cmyk/Forge-Neo-Resolution-Presets",
+   "description": "Compact resolution presets for Forge Neo txt2img and img2img.",
+   "added": "2026-11-19",
+   "tags": [
+    "forge-neo",
+    "UI related"
+   ],
+   "full_name": "ukr8b3g-cmyk/Forge-Neo-Resolution-Presets",
+   "github_description": "Compact resolution presets for Forge Neo txt2img and img2img.",
+   "stars": 2,
+   "created_at": "2026-07-18T00:00:00Z",
+   "commit_time": "2026-10-28T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Style Order Manager",
+   "url": "https://github.com/ukr8b3g-cmyk/Style-Order-Manager",
+   "description": "Drag-and-drop style order manager for Forge Neo and compatible WebUI forks. Search, edit, back up, and restore styles.csv in a compact UI.",
+   "added": "2026-11-19",
+   "tags": [
+    "forge-neo",
+    "UI related"
+   ],
+   "full_name": "ukr8b3g-cmyk/Style-Order-Manager",
+   "github_description": "Drag-and-drop style order manager for Forge Neo and compatible WebUI forks. Search, edit, back up, and restore styles.csv in a compact UI.",
+   "stars": 1,
+   "created_at": "2026-07-16T00:00:00Z",
+   "commit_time": "2026-10-28T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Background Prompter",
+   "url": "https://github.com/ukr8b3g-cmyk/Background-Prompter",
+   "description": "Browse image-backed background presets, save favorites and insert editable tag or natural-language prompts from a resizable side panel.",
+   "added": "2026-11-19",
+   "tags": [
+    "forge-neo",
+    "prompting"
+   ],
+   "full_name": "ukr8b3g-cmyk/Background-Prompter",
+   "github_description": "",
+   "stars": 4,
+   "created_at": "2026-07-13T00:00:00Z",
+   "commit_time": "2026-11-17T00:00:00Z",
+   "default_branch": "main"
   }
  ]
 }

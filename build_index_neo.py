@@ -123,6 +123,12 @@ NEO_ADDITIONS = {
     "abzaloff/forge-inpaint-support": ("Inpaint Support", ["editing", "UI related"]),
     "ukr8b3g-cmyk/Forge-System-Monitor": ("Forge System Monitor", ["UI related"]),
     "txt2bear/master-presets-forge-neo": ("Master Presets", ["UI related"]),
+    "ukr8b3g-cmyk/Speech-Bubble-Comic-Editor-for-Forge-Neo": ("Speech Bubble Comic Editor", ["UI related", "editing"]),
+    "ukr8b3g-cmyk/sd-webui-forge-neo-auto-vram-purge": ("Forge Neo Auto VRAM Purge", ["UI related", "script"]),
+    "ukr8b3g-cmyk/TagComplete-Neo-Multi-CSV": ("TagComplete Neo Multi-CSV", ["prompting"]),
+    "ukr8b3g-cmyk/Forge-Neo-Resolution-Presets": ("Forge Neo Resolution Presets", ["UI related"]),
+    "ukr8b3g-cmyk/Style-Order-Manager": ("Style Order Manager", ["UI related"]),
+    "ukr8b3g-cmyk/Background-Prompter": ("Background Prompter", ["prompting"]),
 }
 
 
