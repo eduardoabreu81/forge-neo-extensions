@@ -1102,12 +1102,13 @@
    "commit_time": "2023-02-04T00:00:00Z"
   },
   {
-   "name": "Ultimate SD Upscale",
+   "name": "🟢 Ultimate SD Upscale",
    "url": "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111",
    "description": "More advanced options for SD Upscale, less artifacts than original using higher denoise ratio (0.3-0.5).",
    "added": "2023-01-10",
    "tags": [
-    "manipulations"
+    "manipulations",
+    "forge-neo"
    ],
    "full_name": "Coyote-A/ultimate-upscale-for-automatic1111",
    "github_description": "",
@@ -7013,6 +7014,38 @@
    "stars": 0,
    "created_at": "2026-11-18T00:00:00Z",
    "commit_time": "2026-11-18T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Forge System Monitor",
+   "url": "https://github.com/ukr8b3g-cmyk/Forge-System-Monitor",
+   "description": "System monitor for Forge Neo, Forge Neo 2, and reForge.",
+   "added": "2026-11-18",
+   "tags": [
+    "forge-neo",
+    "UI related"
+   ],
+   "full_name": "ukr8b3g-cmyk/Forge-System-Monitor",
+   "github_description": "System monitor for Forge Neo, Forge Neo 2, and reForge.",
+   "stars": 0,
+   "created_at": "2026-11-17T00:00:00Z",
+   "commit_time": "2026-11-18T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Master Presets",
+   "url": "https://github.com/txt2bear/master-presets-forge-neo",
+   "description": "One-click model, generation and prompt presets with Quick Dimensions for Forge UI Neo.",
+   "added": "2026-11-18",
+   "tags": [
+    "forge-neo",
+    "UI related"
+   ],
+   "full_name": "txt2bear/master-presets-forge-neo",
+   "github_description": "One-click model, generation and prompt presets with Quick Dimensions for Forge UI Neo.",
+   "stars": 0,
+   "created_at": "2026-11-17T00:00:00Z",
+   "commit_time": "2026-11-17T00:00:00Z",
    "default_branch": "main"
   }
  ]

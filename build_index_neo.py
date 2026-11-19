@@ -28,6 +28,7 @@ NEO_COMPATIBLE_EXISTING = {
     "bluelovers/sd-webui-pnginfo-beautify",
     "Extraltodeus/test_my_prompt",
     "hako-mikan/sd-webui-supermerger",
+    "Coyote-A/ultimate-upscale-for-automatic1111",
 }
 
 # repo -> (display name, category tags) — description comes from GitHub when usable
@@ -120,6 +121,8 @@ NEO_ADDITIONS = {
     "abzaloff/tagger_prompt": ("Tagger Prompt", ["prompting", "query"]),
     "abzaloff/forge-neo-vram-ram-cleaner": ("VRAM/RAM Cleaner", ["UI related", "script"]),
     "abzaloff/forge-inpaint-support": ("Inpaint Support", ["editing", "UI related"]),
+    "ukr8b3g-cmyk/Forge-System-Monitor": ("Forge System Monitor", ["UI related"]),
+    "txt2bear/master-presets-forge-neo": ("Master Presets", ["UI related"]),
 }
 
 
