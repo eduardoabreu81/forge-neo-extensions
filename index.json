@@ -7162,6 +7162,38 @@
    "created_at": "2026-11-14T00:00:00Z",
    "commit_time": "2026-11-15T00:00:00Z",
    "default_branch": "main"
+  },
+  {
+   "name": "🟢 Agent Scheduler (bluelovers)",
+   "url": "https://github.com/bluelovers/sd-webui-agent-scheduler",
+   "description": "Queue txt2img and img2img jobs and run them in the background, with history, bookmarks and prompt copy. Fork with Forge Neo support.",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "tab"
+   ],
+   "full_name": "bluelovers/sd-webui-agent-scheduler",
+   "github_description": "",
+   "stars": 0,
+   "created_at": "2024-05-09T00:00:00Z",
+   "commit_time": "2026-11-20T00:00:00Z",
+   "default_branch": "dev"
+  },
+  {
+   "name": "🟢 Config Presets (bluelovers)",
+   "url": "https://github.com/bluelovers/Config-Presets",
+   "description": "Save and load generation settings as presets from a dropdown in txt2img and img2img. Fork with Forge and Forge Neo support.",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "UI related"
+   ],
+   "full_name": "bluelovers/Config-Presets",
+   "github_description": "Extension for Automatic1111",
+   "stars": 0,
+   "created_at": "2024-06-02T00:00:00Z",
+   "commit_time": "2026-11-20T00:00:00Z",
+   "default_branch": "dev"
   }
  ]
 }
