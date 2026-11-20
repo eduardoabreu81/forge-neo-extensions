@@ -4,8 +4,8 @@
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
 [![Default index](https://img.shields.io/badge/Forge_Neo-default_index-success)](https://github.com/Haoming02/sd-webui-forge-classic/commit/e67193d9)
-[![Entries](https://img.shields.io/badge/Entries-428-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-110-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-429-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-111-informational)](index.json)
 
 > **The default extension index of [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -80,6 +80,7 @@ Made an extension that runs on Forge Neo, or found one missing? [Open an issue](
 | [Prompt Effect Forge Neo](https://github.com/ukr8b3g-cmyk/Prompt-Effect-Forge-Neo) | ukr8b3g-cmyk |
 | [TagComplete Neo Multi-CSV](https://github.com/ukr8b3g-cmyk/TagComplete-Neo-Multi-CSV) | ukr8b3g-cmyk |
 | [Background Prompter](https://github.com/ukr8b3g-cmyk/Background-Prompter) | ukr8b3g-cmyk |
+| [Prompt Refiner](https://github.com/AMGarkin/sd-webui-prompt-refiner) | AMGarkin |
 | [Mistral Prompt](https://github.com/abzaloff/mistral_prompt_extension) | abzaloff |
 | [Small Translate](https://github.com/abzaloff/small-translate) | abzaloff |
 | [Tagger Prompt](https://github.com/abzaloff/tagger_prompt) | abzaloff |

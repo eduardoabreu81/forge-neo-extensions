@@ -129,6 +129,7 @@ NEO_ADDITIONS = {
     "ukr8b3g-cmyk/Forge-Neo-Resolution-Presets": ("Forge Neo Resolution Presets", ["UI related"]),
     "ukr8b3g-cmyk/Style-Order-Manager": ("Style Order Manager", ["UI related"]),
     "ukr8b3g-cmyk/Background-Prompter": ("Background Prompter", ["prompting"]),
+    "AMGarkin/sd-webui-prompt-refiner": ("Prompt Refiner", ["prompting", "tab"]),
 }
 
 
