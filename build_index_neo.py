@@ -132,6 +132,14 @@ NEO_ADDITIONS = {
     "AMGarkin/sd-webui-prompt-refiner": ("Prompt Refiner", ["prompting", "tab"]),
     "bluelovers/sd-webui-agent-scheduler": ("Agent Scheduler (bluelovers)", ["tab"]),
     "bluelovers/Config-Presets": ("Config Presets (bluelovers)", ["UI related"]),
+    "eduardoabreu81/iris-z-forge-neo": ("Iris-Z for Forge Neo", ["models"]),
+    "eduardoabreu81/flux3-image-forge-neo": ("FLUX 3 Image for Forge Neo", ["models"]),
+    "eduardoabreu81/ltx-video-forge-neo": ("LTX Video for Forge Neo", ["models"]),
+    "eduardoabreu81/pan2-forge-neo": ("PAN 2 for Forge Neo", ["models"]),
+    "eduardoabreu81/pjit-21k-forge-neo": ("P-JiT 21K for Forge Neo", ["models"]),
+    "eduardoabreu81/forge-neo-int4-w4a8": ("INT4 W4A8 for Forge Neo", ["models", "script"]),
+    "eduardoabreu81/forge-neo-turing-fp16": ("Turing FP16 for Forge Neo", ["models", "script"]),
+    "eduardoabreu81/forge-neo-theme": ("Forge Neo Theme", ["UI related"]),
 }
 
 

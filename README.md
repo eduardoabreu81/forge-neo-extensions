@@ -4,8 +4,8 @@
 
 [![Forge Neo](https://img.shields.io/badge/Forge-Neo-blue)](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)
 [![Default index](https://img.shields.io/badge/Forge_Neo-default_index-success)](https://github.com/Haoming02/sd-webui-forge-classic/commit/e67193d9)
-[![Entries](https://img.shields.io/badge/Entries-431-brightgreen)](index.json)
-[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-113-informational)](index.json)
+[![Entries](https://img.shields.io/badge/Entries-439-brightgreen)](index.json)
+[![Forge Neo tagged](https://img.shields.io/badge/Forge_Neo_tagged-121-informational)](index.json)
 
 > **The default extension index of [Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo)**
 
@@ -50,19 +50,19 @@ Made an extension that runs on Forge Neo, or found one missing? [Open an issue](
 
 ## The Forge Neo list
 
-All 113 Forge Neo extensions, with what each one does, are on the **[wiki](https://github.com/eduardoabreu81/forge-neo-extensions/wiki)**, sorted by topic:
+All 121 Forge Neo extensions, with what each one does, are on the **[wiki](https://github.com/eduardoabreu81/forge-neo-extensions/wiki)**, sorted by topic:
 
 | Topic | Extensions |
 | --- | :---: |
+| 🛠️ [Workflow & Interface](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Workflow-and-Interface) | 24 |
 | ✍️ [Prompting](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Prompting) | 22 |
-| 🛠️ [Workflow & Interface](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Workflow-and-Interface) | 21 |
 | 🎲 [Sampling & Guidance](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Sampling-and-Guidance) | 16 |
 | 📦 [Models: Merge, Convert & Download](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Models-Merge-Convert-and-Download) | 12 |
+| 🚀 [Model Engines](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Model-Engines) | 11 |
 | 🎭 [Detailing, Inpainting & Faces](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Detailing-Inpainting-and-Faces) | 11 |
 | ✨ [Upscale, Color & Finishing](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Upscale-Color-and-Finishing) | 10 |
 | 🖼️ [Composition, Reference & Editing](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Composition-Reference-and-Editing) | 9 |
 | 🧩 [LoRA & Training](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/LoRA-and-Training) | 6 |
-| 🚀 [Model Engines](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Model-Engines) | 6 |
 
 The people who make them are on the [👥 Creators](https://github.com/eduardoabreu81/forge-neo-extensions/wiki/Creators) page.
 

@@ -7194,6 +7194,136 @@
    "created_at": "2024-06-02T00:00:00Z",
    "commit_time": "2026-11-20T00:00:00Z",
    "default_branch": "dev"
+  },
+  {
+   "name": "🟢 Iris-Z for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/iris-z-forge-neo",
+   "description": "Iris-Z for Stable Diffusion WebUI Forge Neo: one FLUX.2 [klein] 9B model that paints images and reads their depth",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/iris-z-forge-neo",
+   "github_description": "Iris-Z for Stable Diffusion WebUI Forge Neo: one FLUX.2 [klein] 9B model that paints images and reads their depth",
+   "stars": 0,
+   "created_at": "2026-11-15T00:00:00Z",
+   "commit_time": "2026-11-16T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 FLUX 3 Image for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/flux3-image-forge-neo",
+   "description": "FLUX 3 Image Klein for Stable Diffusion WebUI Forge Neo: text-to-image, editing with up to 10 reference images and layouts by boxes, even on 8 GB GPUs",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/flux3-image-forge-neo",
+   "github_description": "FLUX 3 Image Klein for Stable Diffusion WebUI Forge Neo: text-to-image, editing with up to 10 reference images and layouts by boxes, even on 8 GB GPUs",
+   "stars": 4,
+   "created_at": "2026-10-15T00:00:00Z",
+   "commit_time": "2026-11-16T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 LTX Video for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/ltx-video-forge-neo",
+   "description": "Generate videos with sound with LTX-2.5, LTX-2.3 and LTX-2 by Lightricks inside Stable Diffusion WebUI Forge Neo, with the checkpoint, preset and Generate button you already know.",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/ltx-video-forge-neo",
+   "github_description": "Generate videos with sound with LTX-2.5, LTX-2.3 and LTX-2 by Lightricks inside Stable Diffusion WebUI Forge Neo, with the checkpoint, preset and Generate button you already know.",
+   "stars": 1,
+   "created_at": "2026-10-08T00:00:00Z",
+   "commit_time": "2026-11-17T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 PAN 2 for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/pan2-forge-neo",
+   "description": "Generate videos of up to 20 seconds with PAN 2, the world model by IFM (MBZUAI), inside Stable Diffusion WebUI Forge Neo: text to video, image to video, and structured scene descriptions.",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/pan2-forge-neo",
+   "github_description": "Generate videos of up to 20 seconds with PAN 2, the world model by IFM (MBZUAI), inside Stable Diffusion WebUI Forge Neo: text to video, image to video, and structured scene descriptions.",
+   "stars": 0,
+   "created_at": "2026-11-12T00:00:00Z",
+   "commit_time": "2026-11-16T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 P-JiT 21K for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/pjit-21k-forge-neo",
+   "description": "P-JiT 21K for Stable Diffusion WebUI Forge Neo: Linum's small pixel-space text-to-image model, with no VAE, on 8 GB GPUs",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "models"
+   ],
+   "full_name": "eduardoabreu81/pjit-21k-forge-neo",
+   "github_description": "P-JiT 21K for Stable Diffusion WebUI Forge Neo: Linum's small pixel-space text-to-image model, with no VAE, on 8 GB GPUs",
+   "stars": 0,
+   "created_at": "2026-11-07T00:00:00Z",
+   "commit_time": "2026-11-17T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 INT4 W4A8 for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/forge-neo-int4-w4a8",
+   "description": "Forge Neo extension: cleaner pictures from INT4 ConvRot checkpoints (Krea 2, MOSS-Image and others) by running them with INT8 activations (W4A8)",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "models",
+    "script"
+   ],
+   "full_name": "eduardoabreu81/forge-neo-int4-w4a8",
+   "github_description": "Forge Neo extension: cleaner pictures from INT4 ConvRot checkpoints (Krea 2, MOSS-Image and others) by running them with INT8 activations (W4A8)",
+   "stars": 1,
+   "created_at": "2026-10-27T00:00:00Z",
+   "commit_time": "2026-11-17T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Turing FP16 for Forge Neo",
+   "url": "https://github.com/eduardoabreu81/forge-neo-turing-fp16",
+   "description": "Turing FP16 for Stable Diffusion WebUI Forge Neo: models that would run in float32 on GPUs without bfloat16 (RTX 20 and older) run in float16 - MOSS-Image 33 s to 16 s on an RTX 2070",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "models",
+    "script"
+   ],
+   "full_name": "eduardoabreu81/forge-neo-turing-fp16",
+   "github_description": "Turing FP16 for Stable Diffusion WebUI Forge Neo: models that would run in float32 on GPUs without bfloat16 (RTX 20 and older) run in float16 - MOSS-Image 33 s to 16 s on an RTX 2070",
+   "stars": 0,
+   "created_at": "2026-10-22T00:00:00Z",
+   "commit_time": "2026-11-16T00:00:00Z",
+   "default_branch": "main"
+  },
+  {
+   "name": "🟢 Forge Neo Theme",
+   "url": "https://github.com/eduardoabreu81/forge-neo-theme",
+   "description": "A modular theme for Forge Neo: flat cards, 7 accent colors and toggleable modules for dropdowns, scrollbars, tables and tag autocomplete.",
+   "added": "2026-11-20",
+   "tags": [
+    "forge-neo",
+    "UI related"
+   ],
+   "full_name": "eduardoabreu81/forge-neo-theme",
+   "github_description": "A modular theme for Forge Neo: flat cards, 7 accent colors and toggleable modules for dropdowns, scrollbars, tables and tag autocomplete.",
+   "stars": 0,
+   "created_at": "2026-07-17T00:00:00Z",
+   "commit_time": "2026-11-17T00:00:00Z",
+   "default_branch": "main"
   }
  ]
 }
